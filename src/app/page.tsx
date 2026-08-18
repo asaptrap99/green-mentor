@@ -7,6 +7,8 @@ import { GapQuadrantChart } from "@/components/GapQuadrantChart";
 import { FrameworkComparison } from "@/components/FrameworkComparison";
 import { PeerBenchmarkStrip } from "@/components/PeerBenchmarkStrip";
 import { SectorMaterialitySplit } from "@/components/SectorMaterialitySplit";
+import { TaxonomyExplorer } from "@/components/TaxonomyExplorer";
+import { SasbIndustryDetail } from "@/components/SasbIndustryDetail";
 import { getCompanyBySymbol, getCompanyMaterialityProfile } from "@/lib/dataLayer";
 
 const DEFAULT_SYMBOL = "ADANIPOWER";
@@ -39,12 +41,14 @@ export default function Home() {
             <MaterialityPassport profile={profile} />
             <GapQuadrantChart points={profile.gapPoints} />
             <div className="grid grid-cols-1 gap-6 lg:grid-cols-3">
-              <div className="lg:col-span-2">
+              <div className="flex flex-col gap-6 lg:col-span-2">
                 <FrameworkComparison profile={profile} />
+                <SasbIndustryDetail nicSection={profile.company.nicSection} />
               </div>
               <SectorMaterialitySplit highlightSection={profile.company.nicSection} />
             </div>
             <PeerBenchmarkStrip company={profile.company} />
+            <TaxonomyExplorer />
           </div>
         )}
       </div>

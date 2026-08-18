@@ -18,32 +18,57 @@ From the **BRSR Reports** tab — the only tab with structured, parseable rows:
 - Largest emitters (Scope 1+2, 12 companies), renewable energy share (12 companies),
   worker LTIFR band distribution (5 bands), largest water withdrawers (10 companies).
 
-From **NIC Classification** (`src/data/nicSectionSummary.json`, parsed from the
-user-provided `Green_mentor_NIC_Classification.csv` export): all 21 NIC sections
-(A–U) with their real name, Primary/Secondary/Tertiary tier, and real Industry/Group
-counts (e.g. "C · Manufacturing — Secondary, 24 industries, 71 groups"). This is
-still a **summary**, not the code list — the actual Industry- and Group-level codes
-and names within each section (e.g. "C.10.5 — Dairy products") are not present in
-the source and remain unavailable. The taxonomy sunburst/icicle explorer (Screen
-1/5) is still blocked on that.
+From **NIC Classification** (`src/data/nicTaxonomy.json`, parsed from the
+user-provided full NIC taxonomy text dump, `scripts/nic_full_taxonomy_raw.txt`):
+the complete real Section &rarr; Industry &rarr; Group hierarchy for all 21 NIC
+sections — 21 sections, 105 industries, 306 groups, each with its real code and
+name, plus Primary/Secondary/Tertiary tier. Verified against the NIC Classification
+summary counts (industriesCount/groupsCount match exactly for every section). The
+taxonomy explorer (`src/components/TaxonomyExplorer.tsx`, Screen 1/5) is built on
+this and lets an analyst drill Section &rarr; Industry &rarr; Group.
+
+From **SASB Materiality Finder** (`src/data/sasbIndustries.json`, parsed from the
+user-provided SASB-by-industry export, `scripts/sasb_raw.txt` →
+`scripts/parse_sasb.py`): **77 real SASB industries**, each with its SASB code
+(e.g. `FB-AG`), SASB sector, a NIC Section + 2-digit Industry code, a mapping
+confidence (high/medium/low — as given in the source), and its full set of
+General Issue Categories with SASB disclosure topic names. Verified: every
+industry's `issuesCount` matches its parsed general-issue count exactly (0
+mismatches). This is real vendor materiality data — the only one of the three
+frameworks that is.
+
+**How SASB is used in the app** (`src/data/sasbFrameworkMateriality.ts`,
+`src/data/sasbCrosswalk.ts`): two honest limitations, both flagged inline in code:
+1. SASB data is at NIC Industry granularity, but BRSR company records only carry
+   NIC Section (no industry digit) — so a company's *exact* SASB industry can't
+   always be resolved (sections with >1 industry are ambiguous; single-industry
+   sections like D/L/O/P resolve exactly). The app aggregates: for each canonical
+   issue, weight = (# industries in the section flagging it) / (# SASB industries
+   in that section) — a section-level consistency signal, not a per-company exact
+   weight.
+2. SASB's ~26 General Issue Categories don't share names with the BRSR canonical
+   issue set, so `sasbCrosswalk.ts` hand-maps each SASB category to the closest
+   BRSR topic (e.g. "GHG Emissions" → "Climate Change & GHG Emissions"). This is a
+   documented heuristic, not sourced data — SASB doesn't publish a BRSR crosswalk.
+
+The SASB industry detail block (`src/components/SasbIndustryDetail.tsx`) shows the
+real, un-aggregated per-industry data directly, so an analyst can see the exact
+underlying rows rather than only the aggregated signal.
 
 ## Mock / placeholder data
 
 - **`src/data/frameworkMateriality.mock.ts`** — Sustainalytics' 22 Material ESG
-  Issues, the SASB Materiality Finder, and MSCI's Industry Materiality Map. The
-  workbook tabs for all three are empty of structured data (21 embedded images —
+  Issues and MSCI's Industry Materiality Map only (SASB is real — see above). The
+  workbook tabs for both are empty of structured data (21 embedded images —
   screenshots of the admin.greenmentor.co tool, not parseable rows), and per the
   user, there's no pipeline access to the underlying tool yet. This module
   generates a deterministic, seeded placeholder dataset shaped to the real
-  `FrameworkMaterialityRecord` contract (14 NIC sections seeded, weight 0.35–1.0 per
+  `FrameworkMaterialityRecord` contract (15 NIC sections seeded, weight 0.35–1.0 per
   issue). **Swap this module for real vendor data later — nothing else in the data
   layer needs to change.**
 - **GICS/SICS crosswalk** (`nicSections.ts` → `MOCK_CROSSWALK`) — approximate,
   hand-guessed sector mappings for sections with BRSR coverage. Not a validated
   crosswalk.
-- **NIC Industry/Group-level codes** — not available. The taxonomy explorer /
-  drill-down (Screen 1/5 sunburst) described in the epic is deferred until the user
-  supplies the real NIC code list (per plan).
 
 ## Known simplification
 

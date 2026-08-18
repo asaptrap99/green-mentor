@@ -1,20 +1,12 @@
-import type { NicSection, NicTier } from "@/lib/types";
+import type { NicSection } from "@/lib/types";
 import brsr from "./brsr.json";
-import nicSummary from "./nicSectionSummary.json";
+import nicTaxonomy from "./nicTaxonomy.json";
 
 // Real data, parsed from the user-provided NIC Classification export
-// (scripts/nic_classification_source.csv → src/data/nicSectionSummary.json):
-// section code, name, Primary/Secondary/Tertiary tier, and Industry/Group counts.
-// This is still a SUMMARY — the actual Industry/Group-level codes and names
-// within each section are not present in the source and remain unavailable.
-// See DATA_PROVENANCE.md.
-const NIC_SUMMARY = nicSummary as {
-  code: string;
-  name: string;
-  tier: NicTier;
-  industriesCount: number;
-  groupsCount: number;
-}[];
+// (scripts/nic_full_taxonomy_raw.txt → src/data/nicTaxonomy.json): the full
+// Section -> Industry -> Group hierarchy for all 21 NIC sections, with tier and
+// verified industry/group counts. See DATA_PROVENANCE.md.
+const NIC_TAXONOMY = nicTaxonomy as Omit<NicSection, "companyCount" | "gicsSector" | "sicsSector">[];
 
 // MOCK crosswalk — GICS/SICS mappings are not yet sourced. Placeholder values are
 // approximate and only cover sections with real BRSR company counts.
@@ -47,12 +39,8 @@ function computeCompanyCounts(): Record<string, number> {
 
 const companyCounts = computeCompanyCounts();
 
-export const NIC_SECTIONS: NicSection[] = NIC_SUMMARY.map((s) => ({
-  code: s.code,
-  name: s.name,
-  tier: s.tier,
-  industriesCount: s.industriesCount,
-  groupsCount: s.groupsCount,
+export const NIC_SECTIONS: NicSection[] = NIC_TAXONOMY.map((s) => ({
+  ...s,
   companyCount: companyCounts[s.code] ?? 0,
   gicsSector: MOCK_CROSSWALK[s.code]?.gics,
   sicsSector: MOCK_CROSSWALK[s.code]?.sics,

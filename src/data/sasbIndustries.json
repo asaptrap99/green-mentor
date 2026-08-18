@@ -1,0 +1,4244 @@
+[
+  {
+    "name": "Advertising & Marketing",
+    "sasbCode": "SV-AD",
+    "sasbSector": "Services",
+    "nicSection": "M",
+    "nicIndustryCode": "73",
+    "issuesCount": 3,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Privacy",
+        "generalIssueCode": "220",
+        "disclosureTopics": [
+          "Data Privacy"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Advertising Integrity"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Workforce Diversity & Inclusion"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aerospace & Defence",
+    "sasbCode": "RT-AE",
+    "sasbSector": "Resource Transformation",
+    "nicSection": "C",
+    "nicIndustryCode": "30",
+    "issuesCount": 7,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Hazardous Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Product Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Fuel Economy & Emissions in Use-phase"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agricultural Products",
+    "sasbCode": "FB-AG",
+    "sasbSector": "Food & Beverage",
+    "nicSection": "A",
+    "nicIndustryCode": "01",
+    "issuesCount": 7,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Food Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Environmental & Social Impacts of Ingredient Supply Chain",
+          "GMO Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Ingredient Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Air Freight & Logistics",
+    "sasbCode": "TR-AF",
+    "sasbSector": "Transportation",
+    "nicSection": "H",
+    "nicIndustryCode": "52",
+    "issuesCount": 6,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Supply Chain Management"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Accident & Safety Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Airlines",
+    "sasbCode": "TR-AL",
+    "sasbSector": "Transportation",
+    "nicSection": "H",
+    "nicIndustryCode": "51",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Competitive Behaviour"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Accident & Safety Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Alcoholic Beverages",
+    "sasbCode": "FB-AB",
+    "sasbSector": "Food & Beverage",
+    "nicSection": "C",
+    "nicIndustryCode": "11",
+    "issuesCount": 6,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Responsible Drinking & Marketing"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Packaging Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Environmental & Social Impacts of Ingredient Supply Chain"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Ingredient Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Apparel, Accessories & Footwear",
+    "sasbCode": "CG-AA",
+    "sasbSector": "Consumer Goods",
+    "nicSection": "C",
+    "nicIndustryCode": "14",
+    "issuesCount": 3,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Management of Chemicals in Products"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Environmental Impacts in the Supply Chain",
+          "Labour Conditions in the Supply Chain"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Raw Materials Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Appliance Manufacturing",
+    "sasbCode": "CG-AM",
+    "sasbSector": "Consumer Goods",
+    "nicSection": "C",
+    "nicIndustryCode": "27",
+    "issuesCount": 2,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Product Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Lifecycle Environmental Impacts"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Asset Management & Custody Activities",
+    "sasbCode": "FN-AC",
+    "sasbSector": "Financials",
+    "nicSection": "K",
+    "nicIndustryCode": "66",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Transparent Information & Fair Advice for Customers"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Employee Diversity & Inclusion"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory",
+          "Financed Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Auto Parts",
+    "sasbCode": "TR-AP",
+    "sasbSector": "Transportation",
+    "nicSection": "C",
+    "nicIndustryCode": "29",
+    "issuesCount": 6,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Product Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Design for Fuel Efficiency"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing",
+          "Materials Efficiency"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Competitive Behaviour"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Automobiles",
+    "sasbCode": "TR-AU",
+    "sasbSector": "Transportation",
+    "nicSection": "C",
+    "nicIndustryCode": "29",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Product Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Fuel Economy & Use-phase Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing",
+          "Materials Efficiency & Recycling"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biofuels",
+    "sasbCode": "RR-BI",
+    "sasbSector": "Renewable Resources & Alternative Energy",
+    "nicSection": "C",
+    "nicIndustryCode": "20",
+    "issuesCount": 6,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management in Manufacturing"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Lifecycle Emissions Balance"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Sourcing & Environmental Impacts of Feedstock Production"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Management of the Legal & Regulatory Environment",
+        "generalIssueCode": "530",
+        "disclosureTopics": [
+          "Management of the Legal & Regulatory Environment"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Operational Safety, Emergency Preparedness & Response"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biotechnology & Pharmaceuticals",
+    "sasbCode": "HC-BP",
+    "sasbSector": "Health Care",
+    "nicSection": "C",
+    "nicIndustryCode": "21",
+    "issuesCount": 8,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Human Rights & Community Relations",
+        "generalIssueCode": "210",
+        "disclosureTopics": [
+          "Safety of Clinical Trial Participants"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Access & Affordability",
+        "generalIssueCode": "240",
+        "disclosureTopics": [
+          "Access to Medicines",
+          "Affordability & Pricing"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Drug Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Counterfeit Drugs"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Ethical Marketing"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Employee Recruitment, Development & Retention"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Supply Chain Management"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Building Products & Furnishings",
+    "sasbCode": "CG-BF",
+    "sasbSector": "Consumer Goods",
+    "nicSection": "C",
+    "nicIndustryCode": "23",
+    "issuesCount": 4,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management in Manufacturing"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Management of Chemicals in Products"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Lifecycle Environmental Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Wood Supply Chain Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Car Rental & Leasing",
+    "sasbCode": "TR-CR",
+    "sasbSector": "Transportation",
+    "nicSection": "N",
+    "nicIndustryCode": "77",
+    "issuesCount": 2,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Customer Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Fleet Fuel Economy & Utilisation"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Casinos & Gaming",
+    "sasbCode": "SV-CA",
+    "sasbSector": "Services",
+    "nicSection": "R",
+    "nicIndustryCode": "92",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Responsible Gaming"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Smoke-free Casinos"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Internal Controls on Money Laundering"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chemicals",
+    "sasbCode": "RT-CH",
+    "sasbSector": "Resource Transformation",
+    "nicSection": "C",
+    "nicIndustryCode": "20",
+    "issuesCount": 10,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Hazardous Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Human Rights & Community Relations",
+        "generalIssueCode": "210",
+        "disclosureTopics": [
+          "Community Relations"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Design for Use-phase Efficiency",
+          "Safety & Environmental Stewardship of Chemicals",
+          "Genetically Modified Organisms"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Management of the Legal & Regulatory Environment",
+        "generalIssueCode": "530",
+        "disclosureTopics": [
+          "Management of the Legal & Regulatory Environment"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Operational Safety, Emergency Preparedness & Response"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coal Operations",
+    "sasbCode": "EM-CO",
+    "sasbSector": "Extractives & Minerals Processing",
+    "nicSection": "B",
+    "nicIndustryCode": "05",
+    "issuesCount": 9,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Biodiversity Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Human Rights & Community Relations",
+        "generalIssueCode": "210",
+        "disclosureTopics": [
+          "Rights of Indigenous Peoples",
+          "Community Relations"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Relations"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Business Model Resilience",
+        "generalIssueCode": "420",
+        "disclosureTopics": [
+          "Reserves Valuation & Capital Expenditures"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Tailings Storage Facilities Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Commercial Banks",
+    "sasbCode": "FN-CB",
+    "sasbSector": "Financials",
+    "nicSection": "K",
+    "nicIndustryCode": "64",
+    "issuesCount": 5,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Access & Affordability",
+        "generalIssueCode": "240",
+        "disclosureTopics": [
+          "Financial Inclusion & Capacity Building"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Incorporation of Environmental, Social, and Governance Factors in Credit Analysis",
+          "Financed Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Systemic Risk Management",
+        "generalIssueCode": "550",
+        "disclosureTopics": [
+          "Systemic Risk Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Construction Materials",
+    "sasbCode": "EM-CM",
+    "sasbSector": "Extractives & Minerals Processing",
+    "nicSection": "C",
+    "nicIndustryCode": "23",
+    "issuesCount": 9,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Biodiversity Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Innovation"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Pricing Integrity & Transparency"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Consumer Finance",
+    "sasbCode": "FN-CF",
+    "sasbSector": "Financials",
+    "nicSection": "K",
+    "nicIndustryCode": "64",
+    "issuesCount": 3,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Privacy",
+        "generalIssueCode": "220",
+        "disclosureTopics": [
+          "Customer Privacy"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Selling Practices"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Containers & Packaging",
+    "sasbCode": "RT-CP",
+    "sasbSector": "Resource Transformation",
+    "nicSection": "C",
+    "nicIndustryCode": "22",
+    "issuesCount": 8,
+    "confidence": "low",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Product Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Supply Chain Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cruise Lines",
+    "sasbCode": "TR-CL",
+    "sasbSector": "Transportation",
+    "nicSection": "H",
+    "nicIndustryCode": "50",
+    "issuesCount": 7,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Discharge Management & Ecological Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Customer Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Accident Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drug Retailers",
+    "sasbCode": "HC-DR",
+    "sasbSector": "Health Care",
+    "nicSection": "G",
+    "nicIndustryCode": "47",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management in Retail"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security & Privacy"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Drug Supply Chain Integrity"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Management of Controlled Substances",
+          "Patient Health Outcomes"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "E-Commerce",
+    "sasbCode": "CG-EC",
+    "sasbSector": "Consumer Goods",
+    "nicSection": "G",
+    "nicIndustryCode": "47",
+    "issuesCount": 5,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Hardware Infrastructure Energy & Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Privacy",
+        "generalIssueCode": "220",
+        "disclosureTopics": [
+          "Data Privacy & Advertising Standards"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Employee Recruitment, Inclusion & Performance"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Packaging & Distribution"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Education",
+    "sasbCode": "SV-ED",
+    "sasbSector": "Services",
+    "nicSection": "P",
+    "nicIndustryCode": "85",
+    "issuesCount": 3,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Quality of Education & Gainful Employment"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Marketing & Recruiting Practices"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Electric Utilities & Power Generators",
+    "sasbCode": "IF-EU",
+    "sasbSector": "Infrastructure",
+    "nicSection": "D",
+    "nicIndustryCode": "35",
+    "issuesCount": 9,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions & Energy Resource Planning"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Coal Ash Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Access & Affordability",
+        "generalIssueCode": "240",
+        "disclosureTopics": [
+          "Energy Affordability"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Business Model Resilience",
+        "generalIssueCode": "420",
+        "disclosureTopics": [
+          "End-Use Efficiency & Demand"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Nuclear Safety & Emergency Management"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Systemic Risk Management",
+        "generalIssueCode": "550",
+        "disclosureTopics": [
+          "Grid Resiliency"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Electrical & Electronic Equipment",
+    "sasbCode": "RT-EE",
+    "sasbSector": "Resource Transformation",
+    "nicSection": "C",
+    "nicIndustryCode": "27",
+    "issuesCount": 6,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Hazardous Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Product Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Electronic Manufacturing Services & Original Design Manufacturing",
+    "sasbCode": "TC-ES",
+    "sasbSector": "Technology & Communications",
+    "nicSection": "C",
+    "nicIndustryCode": "26",
+    "issuesCount": 6,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Conditions, Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering & Construction Services",
+    "sasbCode": "IF-EN",
+    "sasbSector": "Infrastructure",
+    "nicSection": "F",
+    "nicIndustryCode": "42",
+    "issuesCount": 5,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Environmental Impacts of Project Development"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Structural Integrity & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Lifecycle Impacts of Buildings & Infrastructure",
+          "Climate Impacts of Business Mix"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Food Retailers & Distributors",
+    "sasbCode": "FB-FR",
+    "sasbSector": "Food & Beverage",
+    "nicSection": "G",
+    "nicIndustryCode": "47",
+    "issuesCount": 9,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Fleet Fuel Management",
+          "Air Emissions from Refrigeration"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Food Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Food Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Product Health & Nutrition"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Product Labelling & Marketing"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Management of Environmental & Social Impacts in the Supply Chain"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Forestry Management",
+    "sasbCode": "RR-FM",
+    "sasbSector": "Renewable Resources & Alternative Energy",
+    "nicSection": "A",
+    "nicIndustryCode": "02",
+    "issuesCount": 3,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Ecosystem Services & Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Human Rights & Community Relations",
+        "generalIssueCode": "210",
+        "disclosureTopics": [
+          "Rights of Indigenous Peoples"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Physical Impacts of Climate Change",
+        "generalIssueCode": "450",
+        "disclosureTopics": [
+          "Climate Change Adaptation"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fuel Cells & Industrial Batteries",
+    "sasbCode": "RR-FC",
+    "sasbSector": "Renewable Resources & Alternative Energy",
+    "nicSection": "C",
+    "nicIndustryCode": "27",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Efficiency",
+          "Product End-of-life Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gas Utilities & Distributors",
+    "sasbCode": "IF-GU",
+    "sasbSector": "Infrastructure",
+    "nicSection": "D",
+    "nicIndustryCode": "35",
+    "issuesCount": 3,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Access & Affordability",
+        "generalIssueCode": "240",
+        "disclosureTopics": [
+          "Energy Affordability"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Business Model Resilience",
+        "generalIssueCode": "420",
+        "disclosureTopics": [
+          "End-Use Efficiency"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Integrity of Gas Delivery Infrastructure"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hardware",
+    "sasbCode": "TC-HW",
+    "sasbSector": "Technology & Communications",
+    "nicSection": "C",
+    "nicIndustryCode": "26",
+    "issuesCount": 5,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Product Security"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Employee Diversity & Inclusion"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Supply Chain Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Health Care Delivery",
+    "sasbCode": "HC-DY",
+    "sasbSector": "Health Care",
+    "nicSection": "Q",
+    "nicIndustryCode": "86",
+    "issuesCount": 11,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Patient Privacy & Electronic Health Records"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Access & Affordability",
+        "generalIssueCode": "240",
+        "disclosureTopics": [
+          "Access for Low-Income Patients"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Quality of Care & Patient Satisfaction"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Management of Controlled Substances"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Pricing & Billing Transparency"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Employee Recruitment, Development & Retention"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Physical Impacts of Climate Change",
+        "generalIssueCode": "450",
+        "disclosureTopics": [
+          "Climate Change Impacts on Human Health & Infrastructure"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Fraud & Unnecessary Procedures"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Health Care Distributors",
+    "sasbCode": "HC-DI",
+    "sasbSector": "Health Care",
+    "nicSection": "G",
+    "nicIndustryCode": "46",
+    "issuesCount": 5,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Fleet Fuel Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Product Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Counterfeit Drugs"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home Builders",
+    "sasbCode": "IF-HB",
+    "sasbSector": "Infrastructure",
+    "nicSection": "F",
+    "nicIndustryCode": "41",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Land Use & Ecological Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Design for Resource Efficiency",
+          "Community Impacts of New Developments"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Business Model Resilience",
+        "generalIssueCode": "420",
+        "disclosureTopics": [
+          "Climate Change Adaptation"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hotels & Lodging",
+    "sasbCode": "SV-HL",
+    "sasbSector": "Services",
+    "nicSection": "I",
+    "nicIndustryCode": "55",
+    "issuesCount": 5,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Ecological Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Physical Impacts of Climate Change",
+        "generalIssueCode": "450",
+        "disclosureTopics": [
+          "Climate Change Adaptation"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Household & Personal Products",
+    "sasbCode": "CG-HP",
+    "sasbSector": "Consumer Goods",
+    "nicSection": "C",
+    "nicIndustryCode": "20",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Product Environmental, Health and Safety Performance"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Packaging Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Environmental & Social Impacts of Palm Oil Supply Chain"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Industrial Machinery & Goods",
+    "sasbCode": "RT-IG",
+    "sasbSector": "Resource Transformation",
+    "nicSection": "C",
+    "nicIndustryCode": "28",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Fuel Economy & Emissions in Use-phase"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing",
+          "Remanufacturing Design & Services"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Insurance",
+    "sasbCode": "FN-IN",
+    "sasbSector": "Financials",
+    "nicSection": "K",
+    "nicIndustryCode": "65",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Transparent Information & Fair Advice for Customers"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Incorporation of Environmental, Social and Governance Factors in Investment Management",
+          "Policies Designed to Incentivise Responsible Behaviour",
+          "Financed Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Physical Impacts of Climate Change",
+        "generalIssueCode": "450",
+        "disclosureTopics": [
+          "Physical Risk Exposure"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Systemic Risk Management",
+        "generalIssueCode": "550",
+        "disclosureTopics": [
+          "Systemic Risk Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Internet Media & Services",
+    "sasbCode": "TC-IM",
+    "sasbSector": "Technology & Communications",
+    "nicSection": "J",
+    "nicIndustryCode": "63",
+    "issuesCount": 5,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Environmental Footprint of Hardware Infrastructure"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Privacy",
+        "generalIssueCode": "220",
+        "disclosureTopics": [
+          "Data Privacy, Advertising Standards & Freedom of Expression"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Employee Recruitment, Inclusion & Performance"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Intellectual Property Protection & Competitive Behaviour"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Investment Banking & Brokerage",
+    "sasbCode": "FN-IB",
+    "sasbSector": "Financials",
+    "nicSection": "K",
+    "nicIndustryCode": "66",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Employee Diversity & Inclusion"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Incorporation of Environmental, Social, and Governance Factors in Investment Banking & Brokerage Activities"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics",
+          "Professional Integrity"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Systemic Risk Management",
+        "generalIssueCode": "550",
+        "disclosureTopics": [
+          "Systemic Risk Management",
+          "Employee Incentives & Risk-taking"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iron & Steel Producers",
+    "sasbCode": "EM-IS",
+    "sasbSector": "Extractives & Minerals Processing",
+    "nicSection": "C",
+    "nicIndustryCode": "24",
+    "issuesCount": 7,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Supply Chain Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Leisure Facilities",
+    "sasbCode": "SV-LF",
+    "sasbSector": "Services",
+    "nicSection": "R",
+    "nicIndustryCode": "93",
+    "issuesCount": 3,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Customer Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Managed Care",
+    "sasbCode": "HC-MC",
+    "sasbSector": "Health Care",
+    "nicSection": "K",
+    "nicIndustryCode": "65",
+    "issuesCount": 5,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Customer Privacy & Technology Standards"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Access & Affordability",
+        "generalIssueCode": "240",
+        "disclosureTopics": [
+          "Access to Coverage"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Plan Performance"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Improved Outcomes"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Physical Impacts of Climate Change",
+        "generalIssueCode": "450",
+        "disclosureTopics": [
+          "Climate Change Impacts on Human Health"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marine Transportation",
+    "sasbCode": "TR-MT",
+    "sasbSector": "Transportation",
+    "nicSection": "H",
+    "nicIndustryCode": "50",
+    "issuesCount": 6,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Ecological Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Accident & Safety Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Meat, Poultry & Dairy",
+    "sasbCode": "FB-MP",
+    "sasbSector": "Food & Beverage",
+    "nicSection": "C",
+    "nicIndustryCode": "10",
+    "issuesCount": 10,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Land Use & Ecological Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Food Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Antibiotic Use in Animal Production"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Animal Care & Welfare"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Environmental & Social Impacts of Animal Supply Chain"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Animal & Feed Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Media & Entertainment",
+    "sasbCode": "SV-ME",
+    "sasbSector": "Services",
+    "nicSection": "J",
+    "nicIndustryCode": "59",
+    "issuesCount": 3,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Media Pluralism"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Journalistic Integrity & Sponsorship Identification"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Intellectual Property Protection & Media Piracy"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medical Equipment & Supplies",
+    "sasbCode": "HC-MS",
+    "sasbSector": "Health Care",
+    "nicSection": "C",
+    "nicIndustryCode": "32",
+    "issuesCount": 6,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Access & Affordability",
+        "generalIssueCode": "240",
+        "disclosureTopics": [
+          "Affordability & Pricing"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Product Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Ethical Marketing"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Design & Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Supply Chain Management"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Metals & Mining",
+    "sasbCode": "EM-MM",
+    "sasbSector": "Extractives & Minerals Processing",
+    "nicSection": "B",
+    "nicIndustryCode": "07",
+    "issuesCount": 11,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Waste & Hazardous Materials Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Biodiversity Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Human Rights & Community Relations",
+        "generalIssueCode": "210",
+        "disclosureTopics": [
+          "Security, Human Rights & Rights of Indigenous Peoples",
+          "Community Relations"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics & Transparency"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Tailings Storage Facilities Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mortgage Finance",
+    "sasbCode": "FN-MF",
+    "sasbSector": "Financials",
+    "nicSection": "K",
+    "nicIndustryCode": "64",
+    "issuesCount": 2,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Lending Practices",
+          "Discriminatory Lending"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Physical Impacts of Climate Change",
+        "generalIssueCode": "450",
+        "disclosureTopics": [
+          "Environmental Risk to Mortgaged Properties"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Multiline and Specialty Retailers & Distributors",
+    "sasbCode": "CG-MR",
+    "sasbSector": "Consumer Goods",
+    "nicSection": "G",
+    "nicIndustryCode": "47",
+    "issuesCount": 5,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management in Retail & Distribution"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Workforce Diversity & Inclusion"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Sourcing, Packaging & Marketing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Non-Alcoholic Beverages",
+    "sasbCode": "FB-NB",
+    "sasbSector": "Food & Beverage",
+    "nicSection": "C",
+    "nicIndustryCode": "11",
+    "issuesCount": 8,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Fleet Fuel Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Health & Nutrition"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Product Labelling & Marketing"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Packaging Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Environmental & Social Impacts of Ingredient Supply Chain"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Ingredient Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oil & Gas \u2013 Exploration & Production",
+    "sasbCode": "EM-EP",
+    "sasbSector": "Extractives & Minerals Processing",
+    "nicSection": "B",
+    "nicIndustryCode": "06",
+    "issuesCount": 10,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Biodiversity Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Human Rights & Community Relations",
+        "generalIssueCode": "210",
+        "disclosureTopics": [
+          "Security, Human Rights & Rights of Indigenous Peoples",
+          "Community Relations"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Business Model Resilience",
+        "generalIssueCode": "420",
+        "disclosureTopics": [
+          "Reserves Valuation & Capital Expenditures"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics & Transparency"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Management of the Legal & Regulatory Environment",
+        "generalIssueCode": "530",
+        "disclosureTopics": [
+          "Management of the Legal & Regulatory Environment"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Critical Incident Risk Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oil & Gas \u2013 Midstream",
+    "sasbCode": "EM-MD",
+    "sasbSector": "Extractives & Minerals Processing",
+    "nicSection": "H",
+    "nicIndustryCode": "49",
+    "issuesCount": 5,
+    "confidence": "medium",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Ecological Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Competitive Behaviour"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Operational Safety, Emergency Preparedness & Response"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oil & Gas \u2013 Refining & Marketing",
+    "sasbCode": "EM-RM",
+    "sasbSector": "Extractives & Minerals Processing",
+    "nicSection": "C",
+    "nicIndustryCode": "19",
+    "issuesCount": 9,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Hazardous Materials Management"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Specifications & Clean Fuel Blends"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Pricing Integrity & Transparency"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Management of the Legal & Regulatory Environment",
+        "generalIssueCode": "530",
+        "disclosureTopics": [
+          "Management of the Legal & Regulatory Environment"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Critical Incident Risk Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oil & Gas \u2013 Services",
+    "sasbCode": "EM-SV",
+    "sasbSector": "Extractives & Minerals Processing",
+    "nicSection": "B",
+    "nicIndustryCode": "09",
+    "issuesCount": 8,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Emissions Reduction Services & Fuels Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management Services"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Chemicals Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Ecological Impact Management"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Business Ethics & Payments Transparency"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Management of the Legal & Regulatory Environment",
+        "generalIssueCode": "530",
+        "disclosureTopics": [
+          "Management of the Legal & Regulatory Environment"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Critical Incident Risk Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Processed Foods",
+    "sasbCode": "FB-PF",
+    "sasbSector": "Food & Beverage",
+    "nicSection": "C",
+    "nicIndustryCode": "10",
+    "issuesCount": 8,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Food Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Health & Nutrition"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Product Labelling & Marketing"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Packaging Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Environmental & Social Impacts of Ingredient Supply Chain"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Ingredient Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Professional & Commercial Services",
+    "sasbCode": "SV-PS",
+    "sasbSector": "Services",
+    "nicSection": "N",
+    "nicIndustryCode": "82",
+    "issuesCount": 3,
+    "confidence": "low",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Workforce Diversity & Engagement"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Professional Integrity"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pulp & Paper Products",
+    "sasbCode": "RR-PP",
+    "sasbSector": "Renewable Resources & Alternative Energy",
+    "nicSection": "C",
+    "nicIndustryCode": "17",
+    "issuesCount": 5,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Supply Chain Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rail Transportation",
+    "sasbCode": "TR-RA",
+    "sasbSector": "Transportation",
+    "nicSection": "H",
+    "nicIndustryCode": "49",
+    "issuesCount": 5,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Competitive Behaviour"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Accident & Safety Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Real Estate",
+    "sasbCode": "IF-RE",
+    "sasbSector": "Infrastructure",
+    "nicSection": "L",
+    "nicIndustryCode": "68",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Management of Tenant Sustainability Impacts"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Physical Impacts of Climate Change",
+        "generalIssueCode": "450",
+        "disclosureTopics": [
+          "Climate Change Adaptation"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Real Estate Services",
+    "sasbCode": "IF-RS",
+    "sasbSector": "Infrastructure",
+    "nicSection": "L",
+    "nicIndustryCode": "68",
+    "issuesCount": 2,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Sustainability Services"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Transparent Information & Management of Conflict of Interest"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Restaurants",
+    "sasbCode": "FB-RN",
+    "sasbSector": "Food & Beverage",
+    "nicSection": "I",
+    "nicIndustryCode": "56",
+    "issuesCount": 7,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Food & Packaging Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Food Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Nutritional Content"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Supply Chain Management & Food Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Road Transportation",
+    "sasbCode": "TR-RO",
+    "sasbSector": "Transportation",
+    "nicSection": "H",
+    "nicIndustryCode": "49",
+    "issuesCount": 4,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Conditions, Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Critical Incident Risk Management",
+        "generalIssueCode": "540",
+        "disclosureTopics": [
+          "Accident & Safety Management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Security & Commodity Exchanges",
+    "sasbCode": "FN-EX",
+    "sasbSector": "Financials",
+    "nicSection": "K",
+    "nicIndustryCode": "66",
+    "issuesCount": 3,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Promoting Transparent & Efficient Capital Markets"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Business Ethics",
+        "generalIssueCode": "510",
+        "disclosureTopics": [
+          "Managing Conflicts of Interest"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Systemic Risk Management",
+        "generalIssueCode": "550",
+        "disclosureTopics": [
+          "Managing Business Continuity & Technology Risks"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Semiconductors",
+    "sasbCode": "TC-SC",
+    "sasbSector": "Technology & Communications",
+    "nicSection": "C",
+    "nicIndustryCode": "26",
+    "issuesCount": 9,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management in Manufacturing"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Recruiting & Managing a Global & Skilled Workforce"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Product Lifecycle Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Intellectual Property Protection & Competitive Behaviour"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Software & IT Services",
+    "sasbCode": "TC-SI",
+    "sasbSector": "Technology & Communications",
+    "nicSection": "J",
+    "nicIndustryCode": "62",
+    "issuesCount": 6,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Environmental Footprint of Hardware Infrastructure"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Privacy",
+        "generalIssueCode": "220",
+        "disclosureTopics": [
+          "Data Privacy & Freedom of Expression"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Engagement, Diversity & Inclusion",
+        "generalIssueCode": "330",
+        "disclosureTopics": [
+          "Recruiting & Managing a Global, Diverse & Skilled Workforce"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Intellectual Property Protection & Competitive Behaviour"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Systemic Risk Management",
+        "generalIssueCode": "550",
+        "disclosureTopics": [
+          "Managing Systemic Risks from Technology Disruptions"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Solar Technology & Project Developers",
+    "sasbCode": "RR-ST",
+    "sasbSector": "Renewable Resources & Alternative Energy",
+    "nicSection": "C",
+    "nicIndustryCode": "26",
+    "issuesCount": 6,
+    "confidence": "low",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management in Manufacturing"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Water Management in Manufacturing"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Hazardous Waste Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Ecological Impacts",
+        "generalIssueCode": "160",
+        "disclosureTopics": [
+          "Ecological Impacts of Project Development"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Management of Energy Infrastructure Integration & Related Regulations",
+          "Product End-of-life Management"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Telecommunication Services",
+    "sasbCode": "TC-TL",
+    "sasbSector": "Technology & Communications",
+    "nicSection": "J",
+    "nicIndustryCode": "61",
+    "issuesCount": 6,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Environmental Footprint of Operations"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Privacy",
+        "generalIssueCode": "220",
+        "disclosureTopics": [
+          "Data Privacy"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Data Security",
+        "generalIssueCode": "230",
+        "disclosureTopics": [
+          "Data Security"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Product End-of-life Management"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Competitive Behaviour",
+        "generalIssueCode": "520",
+        "disclosureTopics": [
+          "Competitive Behaviour & Open Internet"
+        ]
+      },
+      {
+        "pillarCategory": "Leadership and Governance",
+        "generalIssueName": "Systemic Risk Management",
+        "generalIssueCode": "550",
+        "disclosureTopics": [
+          "Managing Systemic Risks from Technology Disruptions"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tobacco",
+    "sasbCode": "FB-TB",
+    "sasbSector": "Food & Beverage",
+    "nicSection": "C",
+    "nicIndustryCode": "12",
+    "issuesCount": 2,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Customer Welfare",
+        "generalIssueCode": "260",
+        "disclosureTopics": [
+          "Public Health"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Selling Practices & Product Labeling",
+        "generalIssueCode": "270",
+        "disclosureTopics": [
+          "Marketing Practices"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toys & Sporting Goods",
+    "sasbCode": "CG-TS",
+    "sasbSector": "Consumer Goods",
+    "nicSection": "C",
+    "nicIndustryCode": "32",
+    "issuesCount": 2,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Chemical & Safety Hazards of Products"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Supply Chain Management",
+        "generalIssueCode": "430",
+        "disclosureTopics": [
+          "Labour Conditions in the Supply Chain"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Waste Management",
+    "sasbCode": "IF-WM",
+    "sasbSector": "Infrastructure",
+    "nicSection": "E",
+    "nicIndustryCode": "38",
+    "issuesCount": 6,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "GHG Emissions",
+        "generalIssueCode": "110",
+        "disclosureTopics": [
+          "Greenhouse Gas Emissions",
+          "Fleet Fuel Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Air Quality",
+        "generalIssueCode": "120",
+        "disclosureTopics": [
+          "Air Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Waste & Hazardous Materials Management",
+        "generalIssueCode": "150",
+        "disclosureTopics": [
+          "Management of Leachate & Hazardous Waste"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Labour Practices",
+        "generalIssueCode": "310",
+        "disclosureTopics": [
+          "Labour Practices"
+        ]
+      },
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Business Model Resilience",
+        "generalIssueCode": "420",
+        "disclosureTopics": [
+          "Recycling & Resource Recovery"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Water Utilities & Services",
+    "sasbCode": "IF-WU",
+    "sasbSector": "Infrastructure",
+    "nicSection": "E",
+    "nicIndustryCode": "36",
+    "issuesCount": 7,
+    "confidence": "high",
+    "generalIssues": [
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Energy Management",
+        "generalIssueCode": "130",
+        "disclosureTopics": [
+          "Energy Management"
+        ]
+      },
+      {
+        "pillarCategory": "Environment",
+        "generalIssueName": "Water & Wastewater Management",
+        "generalIssueCode": "140",
+        "disclosureTopics": [
+          "Distribution Network Efficiency",
+          "Effluent Quality Management"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Access & Affordability",
+        "generalIssueCode": "240",
+        "disclosureTopics": [
+          "Water Affordability & Access"
+        ]
+      },
+      {
+        "pillarCategory": "Social Capital",
+        "generalIssueName": "Product Quality & Safety",
+        "generalIssueCode": "250",
+        "disclosureTopics": [
+          "Drinking Water Quality"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Business Model Resilience",
+        "generalIssueCode": "420",
+        "disclosureTopics": [
+          "End-Use Efficiency"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Water Supply Resilience"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Physical Impacts of Climate Change",
+        "generalIssueCode": "450",
+        "disclosureTopics": [
+          "Network Resiliency & Impacts of Climate Change"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wind Technology & Project Developers",
+    "sasbCode": "RR-WT",
+    "sasbSector": "Renewable Resources & Alternative Energy",
+    "nicSection": "C",
+    "nicIndustryCode": "28",
+    "issuesCount": 3,
+    "confidence": "low",
+    "generalIssues": [
+      {
+        "pillarCategory": "Human Capital",
+        "generalIssueName": "Employee Health & Safety",
+        "generalIssueCode": "320",
+        "disclosureTopics": [
+          "Workforce Health & Safety"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Product Design & Lifecycle Management",
+        "generalIssueCode": "410",
+        "disclosureTopics": [
+          "Ecological Impacts of Project Development"
+        ]
+      },
+      {
+        "pillarCategory": "Business Model and Innovation",
+        "generalIssueName": "Materials Sourcing & Efficiency",
+        "generalIssueCode": "440",
+        "disclosureTopics": [
+          "Materials Sourcing",
+          "Materials Efficiency"
+        ]
+      }
+    ]
+  }
+]

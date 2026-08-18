@@ -2,7 +2,7 @@
 
 import { useMemo } from "react";
 import { NIC_SECTIONS } from "@/data/nicSections";
-import { getFrameworkRowsForSection } from "@/data/frameworkMateriality.mock";
+import { getFrameworkRowsForSection } from "@/data/frameworkMateriality";
 import { CANONICAL_ISSUE_BY_ID } from "@/data/canonicalIssues";
 import { PILLAR_COLOR } from "@/lib/palette";
 import type { Pillar } from "@/lib/types";

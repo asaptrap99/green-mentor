@@ -1,0 +1,522 @@
+A · Agriculture, forestry and fishingPrimary · 3 industries · 13 groups
+01Crop and animal production, hunting and related service activities
+
+* 011Growing of non-perennial crops
+* 012Growing of perennial crops
+* 013Plant propagation
+* 014Animal production
+* 015Mixed farming
+* 016Support activities to agriculture and post-harvest crop activities
+* 017Hunting, trapping and related service activities
+
+02Forestry and logging
+
+* 021Silviculture and other forestry activities
+* 022Logging
+* 023Gathering of non-wood forest products
+* 024Support services to forestry
+
+03Fishing and aquaculture
+
+* 031Fishing
+* 032Aquaculture
+
+B · Mining and quarryingPrimary · 5 industries · 10 groups
+05Mining of coal and lignite
+
+* 051Mining of hard coal
+* 052Mining of lignite
+
+06Extraction of crude petroleum and natural gas
+
+* 061Extraction of crude petroleum
+* 062Extraction of natural gas
+
+07Mining of metal ores
+
+* 071Mining of iron ores
+* 072Mining of non-ferrous metal ores
+
+08Other mining and quarrying
+
+* 081Quarrying of stone, sand and clay
+* 089Mining and quarrying n.e.c.
+
+09Mining support service activities
+
+* 091Support activities for petroleum and natural gas mining
+* 099Support activities for other mining and quarrying
+
+C · ManufacturingSecondary · 24 industries · 71 groups
+10Manufacture of food products
+
+* 101Processing and preserving of meat
+* 102Processing and preserving of fish, crustaceans and molluscs
+* 103Processing and preserving of fruit and vegetables
+* 104Manufacture of vegetable and animal oils and fats
+* 105Manufacture of dairy products
+* 106Manufacture of grain mill products, starches and starch products
+* 107Manufacture of other food products
+* 108Manufacture of prepared animal feeds
+
+11Manufacture of beverages
+
+* 110Manufacture of beverages
+
+12Manufacture of tobacco products
+
+* 120Manufacture of tobacco products
+
+13Manufacture of textiles
+
+* 131Spinning, weaving and finishing of textiles
+* 139Manufacture of other textiles
+
+14Manufacture of wearing apparel
+
+* 141Manufacture of wearing apparel, except fur apparel
+* 142Manufacture of articles of fur
+* 143Manufacture of knitted and crocheted apparel
+
+15Manufacture of leather and related products
+
+* 151Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur
+* 152Manufacture of footwear
+
+16Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
+
+* 161Sawmilling and planing of wood
+* 162Manufacture of products of wood, cork, straw and plaiting materials
+
+17Manufacture of paper and paper products
+
+* 170Manufacture of paper and paper products
+
+18Printing and reproduction of recorded media
+
+* 181Printing and service activities related to printing
+* 182Reproduction of recorded media
+
+19Manufacture of coke and refined petroleum products
+
+* 191Manufacture of coke oven products
+* 192Manufacture of refined petroleum products
+
+20Manufacture of chemicals and chemical products
+
+* 201Manufacture of basic chemicals, fertilizer and nitrogen compounds, plastics and synthetic rubber in primary forms
+* 202Manufacture of other chemical products
+* 203Manufacture of man-made fibres
+
+21Manufacture of pharmaceuticals, medicinal chemical and botanical products
+
+* 210Manufacture of pharmaceuticals, medicinal chemical and botanical products
+
+22Manufacture of rubber and plastics products
+
+* 221Manufacture of rubber products
+* 222Manufacture of plastics products
+
+23Manufacture of other non-metallic mineral products
+
+* 231Manufacture of glass and glass products
+* 239Manufacture of non-metallic mineral products n.e.c.
+
+24Manufacture of basic metals
+
+* 241Manufacture of basic iron and steel
+* 242Manufacture of basic precious and other non-ferrous metals
+* 243Casting of metals
+
+25Manufacture of fabricated metal products, except machinery and equipment
+
+* 251Manufacture of structural metal products, tanks, reservoirs and steam generators
+* 252Manufacture of weapons and ammunition
+* 259Manufacture of other fabricated metal products; metalworking service activities
+
+26Manufacture of computer, electronic and optical products
+
+* 261Manufacture of electronic components
+* 262Manufacture of computers and peripheral equipment
+* 263Manufacture of communication equipment
+* 264Manufacture of consumer electronics
+* 265Manufacture of measuring, testing, navigating and control equipment; watches and clocks
+* 266Manufacture of irradiation, electromedical and electrotherapeutic equipment
+* 267Manufacture of optical instruments and equipment
+* 268Manufacture of magnetic and optical media
+
+27Manufacture of electrical equipment
+
+* 271Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus
+* 272Manufacture of batteries and accumulators
+* 273Manufacture of wiring and wiring devices
+* 274Manufacture of electric lighting equipment
+* 275Manufacture of domestic appliances
+* 279Manufacture of other electrical equipment
+
+28Manufacture of machinery and equipment n.e.c.
+
+* 281Manufacture of general purpose machinery
+* 282Manufacture of special-purpose machinery
+
+29Manufacture of motor vehicles, trailers and semi-trailers
+
+* 291Manufacture of motor vehicles
+* 292Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+* 293Manufacture of parts and accessories for motor vehicles
+
+30Manufacture of other transport equipment
+
+* 301Building of ships and boats
+* 302Manufacture of railway locomotives and rolling stock
+* 303Manufacture of air and spacecraft and related machinery
+* 304Manufacture of military fighting vehicles
+* 309Manufacture of transport equipment n.e.c.
+
+31Manufacture of furniture
+
+* 310Manufacture of furniture
+
+32Other manufacturing
+
+* 321Manufacture of jewellery, bijouterie and related articles
+* 322Manufacture of musical instruments
+* 323Manufacture of sports goods
+* 324Manufacture of games and toys
+* 325Manufacture of medical and dental instruments and supplies
+* 329Other manufacturing n.e.c.
+
+33Repair and installation of machinery and equipment
+
+* 331Repair of fabricated metal products, machinery and equipment
+* 332Installation of industrial machinery and equipment
+
+D · Electricity, gas, steam and air conditioning supplySecondary · 1 industry · 3 groups
+35Electricity, gas, steam and air conditioning supply
+
+* 351Electric power generation, transmission and distribution
+* 352Manufacture of gas; distribution of gaseous fuels through mains
+* 353Steam and air conditioning supply
+
+E · Water supply; sewerage, waste management and remediation activitiesSecondary · 4 industries · 6 groups
+36Water collection, treatment and supply
+
+* 360Water collection, treatment and supply
+
+37Sewerage
+
+* 370Sewerage
+
+38Waste collection, treatment and disposal activities; materials recovery
+
+* 381Waste collection
+* 382Waste treatment and disposal
+* 383Materials recovery
+
+39Remediation activities and other waste management services
+
+* 390Remediation activities and other waste management services
+
+F · ConstructionSecondary · 3 industries · 8 groups
+41Construction of buildings
+
+* 410Construction of buildings
+
+42Civil engineering
+
+* 421Construction of roads and railways
+* 422Construction of utility projects
+* 429Construction of other civil engineering projects
+
+43Specialized construction activities
+
+* 431Demolition and site preparation
+* 432Electrical, plumbing and other construction installation activities
+* 433Building completion and finishing
+* 439Other specialized construction activities
+
+G · Wholesale and retail trade; repair of motor vehicles and motorcyclesTertiary · 3 industries · 20 groups
+45Wholesale and retail trade and repair of motor vehicles and motorcycles
+
+* 451Sale of motor vehicles
+* 452Maintenance and repair of motor vehicles
+* 453Sale of motor vehicle parts and accessories
+* 454Sale, maintenance and repair of motorcycles and related parts and accessories
+
+46Wholesale trade, except of motor vehicles and motorcycles
+
+* 461Wholesale on a fee or contract basis
+* 462Wholesale of agricultural raw materials and live animals
+* 463Wholesale of food, beverages and tobacco
+* 464Wholesale of household goods
+* 465Wholesale of machinery, equipment and supplies
+* 466Other specialized wholesale
+* 469Non-specialized wholesale trade
+
+47Retail trade, except of motor vehicles and motorcycles
+
+* 471Retail sale in non-specialized stores
+* 472Retail sale of food, beverages and tobacco in specialized stores
+* 473Retail sale of automotive fuel in specialized stores
+* 474Retail sale of information and communications equipment in specialized stores
+* 475Retail sale of other household equipment in specialized stores
+* 476Retail sale of cultural and recreation goods in specialized stores
+* 477Retail sale of other goods in specialized stores
+* 478Retail sale via stalls and markets
+* 479Retail trade not in stores, stalls or markets
+
+H · Transportation and storageTertiary · 5 industries · 11 groups
+49Land transport and transport via pipelines
+
+* 491Transport via railways
+* 492Other land transport
+* 493Transport via pipeline
+
+50Water transport
+
+* 501Sea and coastal water transport
+* 502Inland water transport
+
+51Air transport
+
+* 511Passenger air transport
+* 512Freight air transport
+
+52Warehousing and support activities for transportation
+
+* 521Warehousing and storage
+* 522Support activities for transportation
+
+53Postal and courier activities
+
+* 531Postal activities
+* 532Courier activities
+
+I · Accommodation and Food service activitiesTertiary · 2 industries · 6 groups
+55Accommodation
+
+* 551Short term accommodation activities
+* 552Camping grounds, recreational vehicle parks and trailer parks
+* 559Other accommodation
+
+56Food and beverage service activities
+
+* 561Restaurants and mobile food service activities
+* 562Event catering and other food service activities
+* 563Beverage serving activities
+
+J · Information and communicationTertiary · 6 industries · 13 groups
+58Publishing activities
+
+* 581Publishing of books, periodicals and other publishing activities
+* 582Software publishing
+
+59Motion picture, video and television programme production, sound recording and music publishing activities
+
+* 591Motion picture, video and television programme activities
+* 592Sound recording and music publishing activities
+
+60Broadcasting and programming activities
+
+* 601Radio broadcasting
+* 602Television programming and broadcasting activities
+
+61Telecommunications
+
+* 611Wired telecommunications activities
+* 612Wireless telecommunications activities
+* 613Satellite telecommunications activities
+* 619Other telecommunications activities
+
+62Computer programming, consultancy and related activities
+
+* 620Computer programming, consultancy and related activities
+
+63Information service activities
+
+* 631Data processing, hosting and related activities; web portals
+* 639Other information service activities
+
+K · Financial and insurance activitiesTertiary · 3 industries · 10 groups
+64Financial service activities, except insurance and pension funding
+
+* 641Monetary intermediation
+* 642Activities of holding companies
+* 643Trusts, funds and other financial vehicles
+* 649Other financial service activities, except insurance and pension funding activities
+
+65Insurance, reinsurance and pension funding, except compulsory social security
+
+* 651Insurance
+* 652Reinsurance
+* 653Pension funding
+
+66Other financial activities
+
+* 661Activities auxiliary to financial service activities, except insurance and pension funding
+* 662Activities auxiliary to insurance and pension funding
+* 663Fund management activities
+
+L · Real estate activitiesTertiary · 1 industry · 2 groups
+68Real estate activities
+
+* 681Real estate activities with own or leased property
+* 682Real estate activities on a fee or contract basis
+
+M · Professional, scientific and technical activitiesTertiary · 7 industries · 14 groups
+69Legal and accounting activities
+
+* 691Legal activities
+* 692Accounting, bookkeeping and auditing activities; tax consultancy
+
+70Activities of head offices; management consultancy activities
+
+* 701Activities of head offices
+* 702Management consultancy activities
+
+71Architecture and engineering activities; technical testing and analysis
+
+* 711Architectural and engineering activities and related technical consultancy
+* 712Technical testing and analysis
+
+72Scientific research and development
+
+* 721Research and experimental development on natural sciences and engineering
+* 722Research and experimental development on social sciences and humanities
+
+73Advertising and market research
+
+* 731Advertising
+* 732Market research and public opinion polling
+
+74Other professional, scientific and technical activities
+
+* 741Specialized design activities
+* 742Photographic activities
+* 749Other professional, scientific and technical activities n.e.c.
+
+75Veterinary activities
+
+* 750Veterinary activities
+
+N · Administrative and support service activitiesTertiary · 6 industries · 19 groups
+77Rental and leasing activities
+
+* 771Renting and leasing of motor vehicles
+* 772Renting and leasing of personal and household goods
+* 773Renting and leasing of other machinery, equipment and tangible goods n.e.c.
+* 774Leasing of nonfinancial intangible assets
+
+78Employment activities
+
+* 781Activities of employment placement agencies
+* 782Temporary employment agency activities
+* 783Human resources provision and management of human resources functions
+
+79Travel agency, tour operator and other reservation service activities
+
+* 791Travel agency and tour operator activities
+* 799Other reservation service activities
+
+80Security and investigation activities
+
+* 801Private security activities
+* 802Security systems service activities
+* 803Investigation activities
+
+81Services to buildings and landscape activities
+
+* 811Combined facilities support activities
+* 812Cleaning activities
+* 813Landscape care and maintenance service activities
+
+82Office administrative, office support and other business support activities
+
+* 821Office administrative and support activities
+* 822Activities of call centres
+* 823Organization of conventions and trade shows
+* 829Business support service activities n.e.c.
+
+O · Public administration and defence; compulsory social securityTertiary · 1 industry · 3 groups
+84Public administration and defence; compulsory social security
+
+* 841Administration of the State and the economic and social policy of the community
+* 842Provision of services to the community as a whole
+* 843Compulsory social security activities
+
+P · EducationTertiary · 1 industry · 5 groups
+85Education
+
+* 851Primary education
+* 852Secondary education
+* 853Higher education
+* 854Other education
+* 855Educational support services
+
+Q · Human health and social work activitiesTertiary · 3 industries · 9 groups
+86Human health activities
+
+* 861Hospital activities
+* 862Medical and dental practice activities
+* 869Other human health activities
+
+87Residential care activities
+
+* 871Nursing care facilities
+* 872Residential care activities for mental retardation, mental health and substance abuse
+* 873Residential care activities for the elderly and disabled
+* 879Other residential care activities n.e.c.
+
+88Social work activities without accommodation
+
+* 881Social work activities without accommodation for the elderly and disabled
+* 889Other social work activities without accommodation n.e.c.
+
+R · Arts, entertainment and recreationTertiary · 4 industries · 5 groups
+90Creative, arts and entertainment activities
+
+* 900Creative, arts and entertainment activities
+
+91Libraries, archives, museums and other cultural activities
+
+* 910Libraries, archives, museums and other cultural activities
+
+92Gambling and betting activities
+
+* 920Gambling and betting activities
+
+93Sports activities and amusement and recreation activities
+
+* 931Sports activities
+* 932Other amusement and recreation activities
+
+S · Other service activitiesTertiary · 3 industries · 6 groups
+94Activities of membership organizations
+
+* 941Activities of business, employers and professional membership organizations
+* 942Activities of trade unions
+* 949Activities of other membership organizations
+
+95Repair of computers and personal and household goods
+
+* 951Repair of computers and communication equipment
+* 952Repair of personal and household goods
+
+96Other personal service activities
+
+* 960Other personal service activities
+
+T · Activities of households as employers; undifferentiated goods- and services producing activities of households for own useTertiary · 2 industries · 3 groups
+97Activities of households as employers of domestic personnel
+
+* 970Activities of households as employers of domestic personnel
+
+98Undifferentiated goods- and services-producing activities of private households for own use
+
+* 981Undifferentiated goods-producing activities of private households for own use
+* 982Undifferentiated service-producing activities of private households for own use
+
+U · Activities of extraterritorial organizations and bodiesTertiary · 1 industry · 1 group
+99Activities of extraterritorial organizations and bodies
+
+* 990Activities of extraterritorial organizations and bodies

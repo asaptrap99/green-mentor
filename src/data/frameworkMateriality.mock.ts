@@ -2,16 +2,17 @@ import type { FrameworkMaterialityRecord, FrameworkName } from "@/lib/types";
 import { CANONICAL_ISSUES } from "./canonicalIssues";
 
 /**
- * MOCK DATA. See DATA_PROVENANCE.md.
+ * MOCK DATA — Sustainalytics and MSCI only. See DATA_PROVENANCE.md.
  *
- * Sustainalytics' 22 Material ESG Issues, the SASB Materiality Finder, and MSCI's
- * ESG Industry Materiality Map exist only as screenshots of an external tool
- * (admin.greenmentor.co) in the source workbook — there is no structured data to
- * parse. This module generates a realistic, deterministic placeholder dataset
- * shaped to the real FrameworkMaterialityRecord contract, so the gap chart,
- * framework comparison panel, and passport are fully functional today. Swap this
- * module for a real data source later — nothing else in the data layer needs to
- * change.
+ * Sustainalytics' 22 Material ESG Issues and MSCI's ESG Industry Materiality Map
+ * exist only as screenshots of an external tool (admin.greenmentor.co) in the
+ * source workbook — there is no structured data to parse. This module generates a
+ * realistic, deterministic placeholder dataset shaped to the real
+ * FrameworkMaterialityRecord contract, so the gap chart, framework comparison
+ * panel, and passport are fully functional today. Swap this module for a real data
+ * source later — nothing else in the data layer needs to change.
+ *
+ * (SASB is no longer mocked — see sasbFrameworkMateriality.ts for real data.)
  *
  * Only NIC sections with real BRSR company coverage are seeded; the rest are left
  * unmapped so the UI's "not yet mapped" fallback path is exercised honestly.
@@ -36,7 +37,7 @@ function hashString(s: string): number {
   return h;
 }
 
-const FRAMEWORKS: FrameworkName[] = ["Sustainalytics", "SASB", "MSCI"];
+const FRAMEWORKS: FrameworkName[] = ["Sustainalytics", "MSCI"];
 
 function generate(): FrameworkMaterialityRecord[] {
   const records: FrameworkMaterialityRecord[] = [];
@@ -58,6 +59,7 @@ function generate(): FrameworkMaterialityRecord[] {
           issueId: issue.id,
           termName: issue.name,
           weight: Math.round((0.35 + rng() * 0.65) * 100) / 100,
+          source: "mock",
         });
       }
     }
@@ -66,8 +68,4 @@ function generate(): FrameworkMaterialityRecord[] {
   return records;
 }
 
-export const FRAMEWORK_MATERIALITY: FrameworkMaterialityRecord[] = generate();
-
-export function getFrameworkRowsForSection(nicSection: string): FrameworkMaterialityRecord[] {
-  return FRAMEWORK_MATERIALITY.filter((r) => r.nicSection === nicSection);
-}
+export const MOCK_FRAMEWORK_MATERIALITY: FrameworkMaterialityRecord[] = generate();

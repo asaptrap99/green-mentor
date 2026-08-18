@@ -1,0 +1,1671 @@
+[
+  {
+    "code": "A",
+    "name": "Agriculture, forestry and fishing",
+    "tier": "Primary",
+    "industriesCount": 3,
+    "groupsCount": 13,
+    "industries": [
+      {
+        "code": "01",
+        "name": "Crop and animal production, hunting and related service activities",
+        "groups": [
+          {
+            "code": "011",
+            "name": "Growing of non-perennial crops"
+          },
+          {
+            "code": "012",
+            "name": "Growing of perennial crops"
+          },
+          {
+            "code": "013",
+            "name": "Plant propagation"
+          },
+          {
+            "code": "014",
+            "name": "Animal production"
+          },
+          {
+            "code": "015",
+            "name": "Mixed farming"
+          },
+          {
+            "code": "016",
+            "name": "Support activities to agriculture and post-harvest crop activities"
+          },
+          {
+            "code": "017",
+            "name": "Hunting, trapping and related service activities"
+          }
+        ]
+      },
+      {
+        "code": "02",
+        "name": "Forestry and logging",
+        "groups": [
+          {
+            "code": "021",
+            "name": "Silviculture and other forestry activities"
+          },
+          {
+            "code": "022",
+            "name": "Logging"
+          },
+          {
+            "code": "023",
+            "name": "Gathering of non-wood forest products"
+          },
+          {
+            "code": "024",
+            "name": "Support services to forestry"
+          }
+        ]
+      },
+      {
+        "code": "03",
+        "name": "Fishing and aquaculture",
+        "groups": [
+          {
+            "code": "031",
+            "name": "Fishing"
+          },
+          {
+            "code": "032",
+            "name": "Aquaculture"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B",
+    "name": "Mining and quarrying",
+    "tier": "Primary",
+    "industriesCount": 5,
+    "groupsCount": 10,
+    "industries": [
+      {
+        "code": "05",
+        "name": "Mining of coal and lignite",
+        "groups": [
+          {
+            "code": "051",
+            "name": "Mining of hard coal"
+          },
+          {
+            "code": "052",
+            "name": "Mining of lignite"
+          }
+        ]
+      },
+      {
+        "code": "06",
+        "name": "Extraction of crude petroleum and natural gas",
+        "groups": [
+          {
+            "code": "061",
+            "name": "Extraction of crude petroleum"
+          },
+          {
+            "code": "062",
+            "name": "Extraction of natural gas"
+          }
+        ]
+      },
+      {
+        "code": "07",
+        "name": "Mining of metal ores",
+        "groups": [
+          {
+            "code": "071",
+            "name": "Mining of iron ores"
+          },
+          {
+            "code": "072",
+            "name": "Mining of non-ferrous metal ores"
+          }
+        ]
+      },
+      {
+        "code": "08",
+        "name": "Other mining and quarrying",
+        "groups": [
+          {
+            "code": "081",
+            "name": "Quarrying of stone, sand and clay"
+          },
+          {
+            "code": "089",
+            "name": "Mining and quarrying n.e.c."
+          }
+        ]
+      },
+      {
+        "code": "09",
+        "name": "Mining support service activities",
+        "groups": [
+          {
+            "code": "091",
+            "name": "Support activities for petroleum and natural gas mining"
+          },
+          {
+            "code": "099",
+            "name": "Support activities for other mining and quarrying"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C",
+    "name": "Manufacturing",
+    "tier": "Secondary",
+    "industriesCount": 24,
+    "groupsCount": 71,
+    "industries": [
+      {
+        "code": "10",
+        "name": "Manufacture of food products",
+        "groups": [
+          {
+            "code": "101",
+            "name": "Processing and preserving of meat"
+          },
+          {
+            "code": "102",
+            "name": "Processing and preserving of fish, crustaceans and molluscs"
+          },
+          {
+            "code": "103",
+            "name": "Processing and preserving of fruit and vegetables"
+          },
+          {
+            "code": "104",
+            "name": "Manufacture of vegetable and animal oils and fats"
+          },
+          {
+            "code": "105",
+            "name": "Manufacture of dairy products"
+          },
+          {
+            "code": "106",
+            "name": "Manufacture of grain mill products, starches and starch products"
+          },
+          {
+            "code": "107",
+            "name": "Manufacture of other food products"
+          },
+          {
+            "code": "108",
+            "name": "Manufacture of prepared animal feeds"
+          }
+        ]
+      },
+      {
+        "code": "11",
+        "name": "Manufacture of beverages",
+        "groups": [
+          {
+            "code": "110",
+            "name": "Manufacture of beverages"
+          }
+        ]
+      },
+      {
+        "code": "12",
+        "name": "Manufacture of tobacco products",
+        "groups": [
+          {
+            "code": "120",
+            "name": "Manufacture of tobacco products"
+          }
+        ]
+      },
+      {
+        "code": "13",
+        "name": "Manufacture of textiles",
+        "groups": [
+          {
+            "code": "131",
+            "name": "Spinning, weaving and finishing of textiles"
+          },
+          {
+            "code": "139",
+            "name": "Manufacture of other textiles"
+          }
+        ]
+      },
+      {
+        "code": "14",
+        "name": "Manufacture of wearing apparel",
+        "groups": [
+          {
+            "code": "141",
+            "name": "Manufacture of wearing apparel, except fur apparel"
+          },
+          {
+            "code": "142",
+            "name": "Manufacture of articles of fur"
+          },
+          {
+            "code": "143",
+            "name": "Manufacture of knitted and crocheted apparel"
+          }
+        ]
+      },
+      {
+        "code": "15",
+        "name": "Manufacture of leather and related products",
+        "groups": [
+          {
+            "code": "151",
+            "name": "Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur"
+          },
+          {
+            "code": "152",
+            "name": "Manufacture of footwear"
+          }
+        ]
+      },
+      {
+        "code": "16",
+        "name": "Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",
+        "groups": [
+          {
+            "code": "161",
+            "name": "Sawmilling and planing of wood"
+          },
+          {
+            "code": "162",
+            "name": "Manufacture of products of wood, cork, straw and plaiting materials"
+          }
+        ]
+      },
+      {
+        "code": "17",
+        "name": "Manufacture of paper and paper products",
+        "groups": [
+          {
+            "code": "170",
+            "name": "Manufacture of paper and paper products"
+          }
+        ]
+      },
+      {
+        "code": "18",
+        "name": "Printing and reproduction of recorded media",
+        "groups": [
+          {
+            "code": "181",
+            "name": "Printing and service activities related to printing"
+          },
+          {
+            "code": "182",
+            "name": "Reproduction of recorded media"
+          }
+        ]
+      },
+      {
+        "code": "19",
+        "name": "Manufacture of coke and refined petroleum products",
+        "groups": [
+          {
+            "code": "191",
+            "name": "Manufacture of coke oven products"
+          },
+          {
+            "code": "192",
+            "name": "Manufacture of refined petroleum products"
+          }
+        ]
+      },
+      {
+        "code": "20",
+        "name": "Manufacture of chemicals and chemical products",
+        "groups": [
+          {
+            "code": "201",
+            "name": "Manufacture of basic chemicals, fertilizer and nitrogen compounds, plastics and synthetic rubber in primary forms"
+          },
+          {
+            "code": "202",
+            "name": "Manufacture of other chemical products"
+          },
+          {
+            "code": "203",
+            "name": "Manufacture of man-made fibres"
+          }
+        ]
+      },
+      {
+        "code": "21",
+        "name": "Manufacture of pharmaceuticals, medicinal chemical and botanical products",
+        "groups": [
+          {
+            "code": "210",
+            "name": "Manufacture of pharmaceuticals, medicinal chemical and botanical products"
+          }
+        ]
+      },
+      {
+        "code": "22",
+        "name": "Manufacture of rubber and plastics products",
+        "groups": [
+          {
+            "code": "221",
+            "name": "Manufacture of rubber products"
+          },
+          {
+            "code": "222",
+            "name": "Manufacture of plastics products"
+          }
+        ]
+      },
+      {
+        "code": "23",
+        "name": "Manufacture of other non-metallic mineral products",
+        "groups": [
+          {
+            "code": "231",
+            "name": "Manufacture of glass and glass products"
+          },
+          {
+            "code": "239",
+            "name": "Manufacture of non-metallic mineral products n.e.c."
+          }
+        ]
+      },
+      {
+        "code": "24",
+        "name": "Manufacture of basic metals",
+        "groups": [
+          {
+            "code": "241",
+            "name": "Manufacture of basic iron and steel"
+          },
+          {
+            "code": "242",
+            "name": "Manufacture of basic precious and other non-ferrous metals"
+          },
+          {
+            "code": "243",
+            "name": "Casting of metals"
+          }
+        ]
+      },
+      {
+        "code": "25",
+        "name": "Manufacture of fabricated metal products, except machinery and equipment",
+        "groups": [
+          {
+            "code": "251",
+            "name": "Manufacture of structural metal products, tanks, reservoirs and steam generators"
+          },
+          {
+            "code": "252",
+            "name": "Manufacture of weapons and ammunition"
+          },
+          {
+            "code": "259",
+            "name": "Manufacture of other fabricated metal products; metalworking service activities"
+          }
+        ]
+      },
+      {
+        "code": "26",
+        "name": "Manufacture of computer, electronic and optical products",
+        "groups": [
+          {
+            "code": "261",
+            "name": "Manufacture of electronic components"
+          },
+          {
+            "code": "262",
+            "name": "Manufacture of computers and peripheral equipment"
+          },
+          {
+            "code": "263",
+            "name": "Manufacture of communication equipment"
+          },
+          {
+            "code": "264",
+            "name": "Manufacture of consumer electronics"
+          },
+          {
+            "code": "265",
+            "name": "Manufacture of measuring, testing, navigating and control equipment; watches and clocks"
+          },
+          {
+            "code": "266",
+            "name": "Manufacture of irradiation, electromedical and electrotherapeutic equipment"
+          },
+          {
+            "code": "267",
+            "name": "Manufacture of optical instruments and equipment"
+          },
+          {
+            "code": "268",
+            "name": "Manufacture of magnetic and optical media"
+          }
+        ]
+      },
+      {
+        "code": "27",
+        "name": "Manufacture of electrical equipment",
+        "groups": [
+          {
+            "code": "271",
+            "name": "Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus"
+          },
+          {
+            "code": "272",
+            "name": "Manufacture of batteries and accumulators"
+          },
+          {
+            "code": "273",
+            "name": "Manufacture of wiring and wiring devices"
+          },
+          {
+            "code": "274",
+            "name": "Manufacture of electric lighting equipment"
+          },
+          {
+            "code": "275",
+            "name": "Manufacture of domestic appliances"
+          },
+          {
+            "code": "279",
+            "name": "Manufacture of other electrical equipment"
+          }
+        ]
+      },
+      {
+        "code": "28",
+        "name": "Manufacture of machinery and equipment n.e.c.",
+        "groups": [
+          {
+            "code": "281",
+            "name": "Manufacture of general purpose machinery"
+          },
+          {
+            "code": "282",
+            "name": "Manufacture of special-purpose machinery"
+          }
+        ]
+      },
+      {
+        "code": "29",
+        "name": "Manufacture of motor vehicles, trailers and semi-trailers",
+        "groups": [
+          {
+            "code": "291",
+            "name": "Manufacture of motor vehicles"
+          },
+          {
+            "code": "292",
+            "name": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
+          },
+          {
+            "code": "293",
+            "name": "Manufacture of parts and accessories for motor vehicles"
+          }
+        ]
+      },
+      {
+        "code": "30",
+        "name": "Manufacture of other transport equipment",
+        "groups": [
+          {
+            "code": "301",
+            "name": "Building of ships and boats"
+          },
+          {
+            "code": "302",
+            "name": "Manufacture of railway locomotives and rolling stock"
+          },
+          {
+            "code": "303",
+            "name": "Manufacture of air and spacecraft and related machinery"
+          },
+          {
+            "code": "304",
+            "name": "Manufacture of military fighting vehicles"
+          },
+          {
+            "code": "309",
+            "name": "Manufacture of transport equipment n.e.c."
+          }
+        ]
+      },
+      {
+        "code": "31",
+        "name": "Manufacture of furniture",
+        "groups": [
+          {
+            "code": "310",
+            "name": "Manufacture of furniture"
+          }
+        ]
+      },
+      {
+        "code": "32",
+        "name": "Other manufacturing",
+        "groups": [
+          {
+            "code": "321",
+            "name": "Manufacture of jewellery, bijouterie and related articles"
+          },
+          {
+            "code": "322",
+            "name": "Manufacture of musical instruments"
+          },
+          {
+            "code": "323",
+            "name": "Manufacture of sports goods"
+          },
+          {
+            "code": "324",
+            "name": "Manufacture of games and toys"
+          },
+          {
+            "code": "325",
+            "name": "Manufacture of medical and dental instruments and supplies"
+          },
+          {
+            "code": "329",
+            "name": "Other manufacturing n.e.c."
+          }
+        ]
+      },
+      {
+        "code": "33",
+        "name": "Repair and installation of machinery and equipment",
+        "groups": [
+          {
+            "code": "331",
+            "name": "Repair of fabricated metal products, machinery and equipment"
+          },
+          {
+            "code": "332",
+            "name": "Installation of industrial machinery and equipment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "D",
+    "name": "Electricity, gas, steam and air conditioning supply",
+    "tier": "Secondary",
+    "industriesCount": 1,
+    "groupsCount": 3,
+    "industries": [
+      {
+        "code": "35",
+        "name": "Electricity, gas, steam and air conditioning supply",
+        "groups": [
+          {
+            "code": "351",
+            "name": "Electric power generation, transmission and distribution"
+          },
+          {
+            "code": "352",
+            "name": "Manufacture of gas; distribution of gaseous fuels through mains"
+          },
+          {
+            "code": "353",
+            "name": "Steam and air conditioning supply"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "E",
+    "name": "Water supply; sewerage, waste management and remediation activities",
+    "tier": "Secondary",
+    "industriesCount": 4,
+    "groupsCount": 6,
+    "industries": [
+      {
+        "code": "36",
+        "name": "Water collection, treatment and supply",
+        "groups": [
+          {
+            "code": "360",
+            "name": "Water collection, treatment and supply"
+          }
+        ]
+      },
+      {
+        "code": "37",
+        "name": "Sewerage",
+        "groups": [
+          {
+            "code": "370",
+            "name": "Sewerage"
+          }
+        ]
+      },
+      {
+        "code": "38",
+        "name": "Waste collection, treatment and disposal activities; materials recovery",
+        "groups": [
+          {
+            "code": "381",
+            "name": "Waste collection"
+          },
+          {
+            "code": "382",
+            "name": "Waste treatment and disposal"
+          },
+          {
+            "code": "383",
+            "name": "Materials recovery"
+          }
+        ]
+      },
+      {
+        "code": "39",
+        "name": "Remediation activities and other waste management services",
+        "groups": [
+          {
+            "code": "390",
+            "name": "Remediation activities and other waste management services"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "F",
+    "name": "Construction",
+    "tier": "Secondary",
+    "industriesCount": 3,
+    "groupsCount": 8,
+    "industries": [
+      {
+        "code": "41",
+        "name": "Construction of buildings",
+        "groups": [
+          {
+            "code": "410",
+            "name": "Construction of buildings"
+          }
+        ]
+      },
+      {
+        "code": "42",
+        "name": "Civil engineering",
+        "groups": [
+          {
+            "code": "421",
+            "name": "Construction of roads and railways"
+          },
+          {
+            "code": "422",
+            "name": "Construction of utility projects"
+          },
+          {
+            "code": "429",
+            "name": "Construction of other civil engineering projects"
+          }
+        ]
+      },
+      {
+        "code": "43",
+        "name": "Specialized construction activities",
+        "groups": [
+          {
+            "code": "431",
+            "name": "Demolition and site preparation"
+          },
+          {
+            "code": "432",
+            "name": "Electrical, plumbing and other construction installation activities"
+          },
+          {
+            "code": "433",
+            "name": "Building completion and finishing"
+          },
+          {
+            "code": "439",
+            "name": "Other specialized construction activities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "G",
+    "name": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+    "tier": "Tertiary",
+    "industriesCount": 3,
+    "groupsCount": 20,
+    "industries": [
+      {
+        "code": "45",
+        "name": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+        "groups": [
+          {
+            "code": "451",
+            "name": "Sale of motor vehicles"
+          },
+          {
+            "code": "452",
+            "name": "Maintenance and repair of motor vehicles"
+          },
+          {
+            "code": "453",
+            "name": "Sale of motor vehicle parts and accessories"
+          },
+          {
+            "code": "454",
+            "name": "Sale, maintenance and repair of motorcycles and related parts and accessories"
+          }
+        ]
+      },
+      {
+        "code": "46",
+        "name": "Wholesale trade, except of motor vehicles and motorcycles",
+        "groups": [
+          {
+            "code": "461",
+            "name": "Wholesale on a fee or contract basis"
+          },
+          {
+            "code": "462",
+            "name": "Wholesale of agricultural raw materials and live animals"
+          },
+          {
+            "code": "463",
+            "name": "Wholesale of food, beverages and tobacco"
+          },
+          {
+            "code": "464",
+            "name": "Wholesale of household goods"
+          },
+          {
+            "code": "465",
+            "name": "Wholesale of machinery, equipment and supplies"
+          },
+          {
+            "code": "466",
+            "name": "Other specialized wholesale"
+          },
+          {
+            "code": "469",
+            "name": "Non-specialized wholesale trade"
+          }
+        ]
+      },
+      {
+        "code": "47",
+        "name": "Retail trade, except of motor vehicles and motorcycles",
+        "groups": [
+          {
+            "code": "471",
+            "name": "Retail sale in non-specialized stores"
+          },
+          {
+            "code": "472",
+            "name": "Retail sale of food, beverages and tobacco in specialized stores"
+          },
+          {
+            "code": "473",
+            "name": "Retail sale of automotive fuel in specialized stores"
+          },
+          {
+            "code": "474",
+            "name": "Retail sale of information and communications equipment in specialized stores"
+          },
+          {
+            "code": "475",
+            "name": "Retail sale of other household equipment in specialized stores"
+          },
+          {
+            "code": "476",
+            "name": "Retail sale of cultural and recreation goods in specialized stores"
+          },
+          {
+            "code": "477",
+            "name": "Retail sale of other goods in specialized stores"
+          },
+          {
+            "code": "478",
+            "name": "Retail sale via stalls and markets"
+          },
+          {
+            "code": "479",
+            "name": "Retail trade not in stores, stalls or markets"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H",
+    "name": "Transportation and storage",
+    "tier": "Tertiary",
+    "industriesCount": 5,
+    "groupsCount": 11,
+    "industries": [
+      {
+        "code": "49",
+        "name": "Land transport and transport via pipelines",
+        "groups": [
+          {
+            "code": "491",
+            "name": "Transport via railways"
+          },
+          {
+            "code": "492",
+            "name": "Other land transport"
+          },
+          {
+            "code": "493",
+            "name": "Transport via pipeline"
+          }
+        ]
+      },
+      {
+        "code": "50",
+        "name": "Water transport",
+        "groups": [
+          {
+            "code": "501",
+            "name": "Sea and coastal water transport"
+          },
+          {
+            "code": "502",
+            "name": "Inland water transport"
+          }
+        ]
+      },
+      {
+        "code": "51",
+        "name": "Air transport",
+        "groups": [
+          {
+            "code": "511",
+            "name": "Passenger air transport"
+          },
+          {
+            "code": "512",
+            "name": "Freight air transport"
+          }
+        ]
+      },
+      {
+        "code": "52",
+        "name": "Warehousing and support activities for transportation",
+        "groups": [
+          {
+            "code": "521",
+            "name": "Warehousing and storage"
+          },
+          {
+            "code": "522",
+            "name": "Support activities for transportation"
+          }
+        ]
+      },
+      {
+        "code": "53",
+        "name": "Postal and courier activities",
+        "groups": [
+          {
+            "code": "531",
+            "name": "Postal activities"
+          },
+          {
+            "code": "532",
+            "name": "Courier activities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I",
+    "name": "Accommodation and Food service activities",
+    "tier": "Tertiary",
+    "industriesCount": 2,
+    "groupsCount": 6,
+    "industries": [
+      {
+        "code": "55",
+        "name": "Accommodation",
+        "groups": [
+          {
+            "code": "551",
+            "name": "Short term accommodation activities"
+          },
+          {
+            "code": "552",
+            "name": "Camping grounds, recreational vehicle parks and trailer parks"
+          },
+          {
+            "code": "559",
+            "name": "Other accommodation"
+          }
+        ]
+      },
+      {
+        "code": "56",
+        "name": "Food and beverage service activities",
+        "groups": [
+          {
+            "code": "561",
+            "name": "Restaurants and mobile food service activities"
+          },
+          {
+            "code": "562",
+            "name": "Event catering and other food service activities"
+          },
+          {
+            "code": "563",
+            "name": "Beverage serving activities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "J",
+    "name": "Information and communication",
+    "tier": "Tertiary",
+    "industriesCount": 6,
+    "groupsCount": 13,
+    "industries": [
+      {
+        "code": "58",
+        "name": "Publishing activities",
+        "groups": [
+          {
+            "code": "581",
+            "name": "Publishing of books, periodicals and other publishing activities"
+          },
+          {
+            "code": "582",
+            "name": "Software publishing"
+          }
+        ]
+      },
+      {
+        "code": "59",
+        "name": "Motion picture, video and television programme production, sound recording and music publishing activities",
+        "groups": [
+          {
+            "code": "591",
+            "name": "Motion picture, video and television programme activities"
+          },
+          {
+            "code": "592",
+            "name": "Sound recording and music publishing activities"
+          }
+        ]
+      },
+      {
+        "code": "60",
+        "name": "Broadcasting and programming activities",
+        "groups": [
+          {
+            "code": "601",
+            "name": "Radio broadcasting"
+          },
+          {
+            "code": "602",
+            "name": "Television programming and broadcasting activities"
+          }
+        ]
+      },
+      {
+        "code": "61",
+        "name": "Telecommunications",
+        "groups": [
+          {
+            "code": "611",
+            "name": "Wired telecommunications activities"
+          },
+          {
+            "code": "612",
+            "name": "Wireless telecommunications activities"
+          },
+          {
+            "code": "613",
+            "name": "Satellite telecommunications activities"
+          },
+          {
+            "code": "619",
+            "name": "Other telecommunications activities"
+          }
+        ]
+      },
+      {
+        "code": "62",
+        "name": "Computer programming, consultancy and related activities",
+        "groups": [
+          {
+            "code": "620",
+            "name": "Computer programming, consultancy and related activities"
+          }
+        ]
+      },
+      {
+        "code": "63",
+        "name": "Information service activities",
+        "groups": [
+          {
+            "code": "631",
+            "name": "Data processing, hosting and related activities; web portals"
+          },
+          {
+            "code": "639",
+            "name": "Other information service activities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "K",
+    "name": "Financial and insurance activities",
+    "tier": "Tertiary",
+    "industriesCount": 3,
+    "groupsCount": 10,
+    "industries": [
+      {
+        "code": "64",
+        "name": "Financial service activities, except insurance and pension funding",
+        "groups": [
+          {
+            "code": "641",
+            "name": "Monetary intermediation"
+          },
+          {
+            "code": "642",
+            "name": "Activities of holding companies"
+          },
+          {
+            "code": "643",
+            "name": "Trusts, funds and other financial vehicles"
+          },
+          {
+            "code": "649",
+            "name": "Other financial service activities, except insurance and pension funding activities"
+          }
+        ]
+      },
+      {
+        "code": "65",
+        "name": "Insurance, reinsurance and pension funding, except compulsory social security",
+        "groups": [
+          {
+            "code": "651",
+            "name": "Insurance"
+          },
+          {
+            "code": "652",
+            "name": "Reinsurance"
+          },
+          {
+            "code": "653",
+            "name": "Pension funding"
+          }
+        ]
+      },
+      {
+        "code": "66",
+        "name": "Other financial activities",
+        "groups": [
+          {
+            "code": "661",
+            "name": "Activities auxiliary to financial service activities, except insurance and pension funding"
+          },
+          {
+            "code": "662",
+            "name": "Activities auxiliary to insurance and pension funding"
+          },
+          {
+            "code": "663",
+            "name": "Fund management activities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "L",
+    "name": "Real estate activities",
+    "tier": "Tertiary",
+    "industriesCount": 1,
+    "groupsCount": 2,
+    "industries": [
+      {
+        "code": "68",
+        "name": "Real estate activities",
+        "groups": [
+          {
+            "code": "681",
+            "name": "Real estate activities with own or leased property"
+          },
+          {
+            "code": "682",
+            "name": "Real estate activities on a fee or contract basis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "M",
+    "name": "Professional, scientific and technical activities",
+    "tier": "Tertiary",
+    "industriesCount": 7,
+    "groupsCount": 14,
+    "industries": [
+      {
+        "code": "69",
+        "name": "Legal and accounting activities",
+        "groups": [
+          {
+            "code": "691",
+            "name": "Legal activities"
+          },
+          {
+            "code": "692",
+            "name": "Accounting, bookkeeping and auditing activities; tax consultancy"
+          }
+        ]
+      },
+      {
+        "code": "70",
+        "name": "Activities of head offices; management consultancy activities",
+        "groups": [
+          {
+            "code": "701",
+            "name": "Activities of head offices"
+          },
+          {
+            "code": "702",
+            "name": "Management consultancy activities"
+          }
+        ]
+      },
+      {
+        "code": "71",
+        "name": "Architecture and engineering activities; technical testing and analysis",
+        "groups": [
+          {
+            "code": "711",
+            "name": "Architectural and engineering activities and related technical consultancy"
+          },
+          {
+            "code": "712",
+            "name": "Technical testing and analysis"
+          }
+        ]
+      },
+      {
+        "code": "72",
+        "name": "Scientific research and development",
+        "groups": [
+          {
+            "code": "721",
+            "name": "Research and experimental development on natural sciences and engineering"
+          },
+          {
+            "code": "722",
+            "name": "Research and experimental development on social sciences and humanities"
+          }
+        ]
+      },
+      {
+        "code": "73",
+        "name": "Advertising and market research",
+        "groups": [
+          {
+            "code": "731",
+            "name": "Advertising"
+          },
+          {
+            "code": "732",
+            "name": "Market research and public opinion polling"
+          }
+        ]
+      },
+      {
+        "code": "74",
+        "name": "Other professional, scientific and technical activities",
+        "groups": [
+          {
+            "code": "741",
+            "name": "Specialized design activities"
+          },
+          {
+            "code": "742",
+            "name": "Photographic activities"
+          },
+          {
+            "code": "749",
+            "name": "Other professional, scientific and technical activities n.e.c."
+          }
+        ]
+      },
+      {
+        "code": "75",
+        "name": "Veterinary activities",
+        "groups": [
+          {
+            "code": "750",
+            "name": "Veterinary activities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "N",
+    "name": "Administrative and support service activities",
+    "tier": "Tertiary",
+    "industriesCount": 6,
+    "groupsCount": 19,
+    "industries": [
+      {
+        "code": "77",
+        "name": "Rental and leasing activities",
+        "groups": [
+          {
+            "code": "771",
+            "name": "Renting and leasing of motor vehicles"
+          },
+          {
+            "code": "772",
+            "name": "Renting and leasing of personal and household goods"
+          },
+          {
+            "code": "773",
+            "name": "Renting and leasing of other machinery, equipment and tangible goods n.e.c."
+          },
+          {
+            "code": "774",
+            "name": "Leasing of nonfinancial intangible assets"
+          }
+        ]
+      },
+      {
+        "code": "78",
+        "name": "Employment activities",
+        "groups": [
+          {
+            "code": "781",
+            "name": "Activities of employment placement agencies"
+          },
+          {
+            "code": "782",
+            "name": "Temporary employment agency activities"
+          },
+          {
+            "code": "783",
+            "name": "Human resources provision and management of human resources functions"
+          }
+        ]
+      },
+      {
+        "code": "79",
+        "name": "Travel agency, tour operator and other reservation service activities",
+        "groups": [
+          {
+            "code": "791",
+            "name": "Travel agency and tour operator activities"
+          },
+          {
+            "code": "799",
+            "name": "Other reservation service activities"
+          }
+        ]
+      },
+      {
+        "code": "80",
+        "name": "Security and investigation activities",
+        "groups": [
+          {
+            "code": "801",
+            "name": "Private security activities"
+          },
+          {
+            "code": "802",
+            "name": "Security systems service activities"
+          },
+          {
+            "code": "803",
+            "name": "Investigation activities"
+          }
+        ]
+      },
+      {
+        "code": "81",
+        "name": "Services to buildings and landscape activities",
+        "groups": [
+          {
+            "code": "811",
+            "name": "Combined facilities support activities"
+          },
+          {
+            "code": "812",
+            "name": "Cleaning activities"
+          },
+          {
+            "code": "813",
+            "name": "Landscape care and maintenance service activities"
+          }
+        ]
+      },
+      {
+        "code": "82",
+        "name": "Office administrative, office support and other business support activities",
+        "groups": [
+          {
+            "code": "821",
+            "name": "Office administrative and support activities"
+          },
+          {
+            "code": "822",
+            "name": "Activities of call centres"
+          },
+          {
+            "code": "823",
+            "name": "Organization of conventions and trade shows"
+          },
+          {
+            "code": "829",
+            "name": "Business support service activities n.e.c."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "O",
+    "name": "Public administration and defence; compulsory social security",
+    "tier": "Tertiary",
+    "industriesCount": 1,
+    "groupsCount": 3,
+    "industries": [
+      {
+        "code": "84",
+        "name": "Public administration and defence; compulsory social security",
+        "groups": [
+          {
+            "code": "841",
+            "name": "Administration of the State and the economic and social policy of the community"
+          },
+          {
+            "code": "842",
+            "name": "Provision of services to the community as a whole"
+          },
+          {
+            "code": "843",
+            "name": "Compulsory social security activities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "P",
+    "name": "Education",
+    "tier": "Tertiary",
+    "industriesCount": 1,
+    "groupsCount": 5,
+    "industries": [
+      {
+        "code": "85",
+        "name": "Education",
+        "groups": [
+          {
+            "code": "851",
+            "name": "Primary education"
+          },
+          {
+            "code": "852",
+            "name": "Secondary education"
+          },
+          {
+            "code": "853",
+            "name": "Higher education"
+          },
+          {
+            "code": "854",
+            "name": "Other education"
+          },
+          {
+            "code": "855",
+            "name": "Educational support services"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "Q",
+    "name": "Human health and social work activities",
+    "tier": "Tertiary",
+    "industriesCount": 3,
+    "groupsCount": 9,
+    "industries": [
+      {
+        "code": "86",
+        "name": "Human health activities",
+        "groups": [
+          {
+            "code": "861",
+            "name": "Hospital activities"
+          },
+          {
+            "code": "862",
+            "name": "Medical and dental practice activities"
+          },
+          {
+            "code": "869",
+            "name": "Other human health activities"
+          }
+        ]
+      },
+      {
+        "code": "87",
+        "name": "Residential care activities",
+        "groups": [
+          {
+            "code": "871",
+            "name": "Nursing care facilities"
+          },
+          {
+            "code": "872",
+            "name": "Residential care activities for mental retardation, mental health and substance abuse"
+          },
+          {
+            "code": "873",
+            "name": "Residential care activities for the elderly and disabled"
+          },
+          {
+            "code": "879",
+            "name": "Other residential care activities n.e.c."
+          }
+        ]
+      },
+      {
+        "code": "88",
+        "name": "Social work activities without accommodation",
+        "groups": [
+          {
+            "code": "881",
+            "name": "Social work activities without accommodation for the elderly and disabled"
+          },
+          {
+            "code": "889",
+            "name": "Other social work activities without accommodation n.e.c."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "R",
+    "name": "Arts, entertainment and recreation",
+    "tier": "Tertiary",
+    "industriesCount": 4,
+    "groupsCount": 5,
+    "industries": [
+      {
+        "code": "90",
+        "name": "Creative, arts and entertainment activities",
+        "groups": [
+          {
+            "code": "900",
+            "name": "Creative, arts and entertainment activities"
+          }
+        ]
+      },
+      {
+        "code": "91",
+        "name": "Libraries, archives, museums and other cultural activities",
+        "groups": [
+          {
+            "code": "910",
+            "name": "Libraries, archives, museums and other cultural activities"
+          }
+        ]
+      },
+      {
+        "code": "92",
+        "name": "Gambling and betting activities",
+        "groups": [
+          {
+            "code": "920",
+            "name": "Gambling and betting activities"
+          }
+        ]
+      },
+      {
+        "code": "93",
+        "name": "Sports activities and amusement and recreation activities",
+        "groups": [
+          {
+            "code": "931",
+            "name": "Sports activities"
+          },
+          {
+            "code": "932",
+            "name": "Other amusement and recreation activities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "S",
+    "name": "Other service activities",
+    "tier": "Tertiary",
+    "industriesCount": 3,
+    "groupsCount": 6,
+    "industries": [
+      {
+        "code": "94",
+        "name": "Activities of membership organizations",
+        "groups": [
+          {
+            "code": "941",
+            "name": "Activities of business, employers and professional membership organizations"
+          },
+          {
+            "code": "942",
+            "name": "Activities of trade unions"
+          },
+          {
+            "code": "949",
+            "name": "Activities of other membership organizations"
+          }
+        ]
+      },
+      {
+        "code": "95",
+        "name": "Repair of computers and personal and household goods",
+        "groups": [
+          {
+            "code": "951",
+            "name": "Repair of computers and communication equipment"
+          },
+          {
+            "code": "952",
+            "name": "Repair of personal and household goods"
+          }
+        ]
+      },
+      {
+        "code": "96",
+        "name": "Other personal service activities",
+        "groups": [
+          {
+            "code": "960",
+            "name": "Other personal service activities"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "T",
+    "name": "Activities of households as employers; undifferentiated goods- and services producing activities of households for own use",
+    "tier": "Tertiary",
+    "industriesCount": 2,
+    "groupsCount": 3,
+    "industries": [
+      {
+        "code": "97",
+        "name": "Activities of households as employers of domestic personnel",
+        "groups": [
+          {
+            "code": "970",
+            "name": "Activities of households as employers of domestic personnel"
+          }
+        ]
+      },
+      {
+        "code": "98",
+        "name": "Undifferentiated goods- and services-producing activities of private households for own use",
+        "groups": [
+          {
+            "code": "981",
+            "name": "Undifferentiated goods-producing activities of private households for own use"
+          },
+          {
+            "code": "982",
+            "name": "Undifferentiated service-producing activities of private households for own use"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "U",
+    "name": "Activities of extraterritorial organizations and bodies",
+    "tier": "Tertiary",
+    "industriesCount": 1,
+    "groupsCount": 1,
+    "industries": [
+      {
+        "code": "99",
+        "name": "Activities of extraterritorial organizations and bodies",
+        "groups": [
+          {
+            "code": "990",
+            "name": "Activities of extraterritorial organizations and bodies"
+          }
+        ]
+      }
+    ]
+  }
+]

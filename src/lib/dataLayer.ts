@@ -9,7 +9,7 @@ import type {
 } from "./types";
 import brsr from "@/data/brsr.json";
 import { CANONICAL_ISSUES } from "@/data/canonicalIssues";
-import { getFrameworkRowsForSection } from "@/data/frameworkMateriality.mock";
+import { getFrameworkRowsForSection } from "@/data/frameworkMateriality";
 import { getNicSection, NIC_SECTIONS } from "@/data/nicSections";
 
 const companies = brsr.companies as Company[];

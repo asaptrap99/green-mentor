@@ -1,0 +1,1650 @@
+Advertising & Marketing
+SV-AD · Services
+NIC M · 73
+3 issues
+Sector M — Professional, scientific and technical activities · Industry 73 — Advertising and market research
+
+Social Capital
+Customer Privacy220
+Data Privacy
+Selling Practices & Product Labeling270
+Advertising Integrity
+Human Capital
+Employee Engagement, Diversity & Inclusion330
+Workforce Diversity & Inclusion
+
+Aerospace & Defence
+RT-AE · Resource Transformation
+NIC C · 30
+7 issues
+Sector C — Manufacturing · Industry 30 — Manufacture of other transport equipment
+
+Environment
+Energy Management130
+Energy Management
+Waste & Hazardous Materials Management150
+Hazardous Waste Management
+Social Capital
+Data Security230
+Data Security
+Product Quality & Safety250
+Product Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Fuel Economy & Emissions in Use-phase
+Materials Sourcing & Efficiency440
+Materials Sourcing
+Leadership and Governance
+Business Ethics510
+Business Ethics
+
+Agricultural Products
+FB-AG · Food & Beverage
+NIC A · 01
+7 issues
+Sector A — Agriculture, forestry and fishing · Industry 01 — Crop and animal production, hunting and related service activities (medium confidence)
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Social Capital
+Product Quality & Safety250
+Food Safety
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Supply Chain Management430
+Environmental & Social Impacts of Ingredient Supply Chain
+GMO Management
+Materials Sourcing & Efficiency440
+Ingredient Sourcing
+
+Air Freight & Logistics
+TR-AF · Transportation
+NIC H · 52
+6 issues
+Sector H — Transportation and storage · Industry 52 — Warehousing and support activities for transportation (medium confidence)
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Human Capital
+Labour Practices310
+Labour Practices
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Supply Chain Management430
+Supply Chain Management
+Leadership and Governance
+Critical Incident Risk Management540
+Accident & Safety Management
+
+Airlines
+TR-AL · Transportation
+NIC H · 51
+4 issues
+Sector H — Transportation and storage · Industry 51 — Air transport
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Human Capital
+Labour Practices310
+Labour Practices
+Leadership and Governance
+Competitive Behaviour520
+Competitive Behaviour
+Critical Incident Risk Management540
+Accident & Safety Management
+
+Alcoholic Beverages
+FB-AB · Food & Beverage
+NIC C · 11
+6 issues
+Sector C — Manufacturing · Industry 11 — Manufacture of beverages
+
+Environment
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Social Capital
+Selling Practices & Product Labeling270
+Responsible Drinking & Marketing
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Packaging Lifecycle Management
+Supply Chain Management430
+Environmental & Social Impacts of Ingredient Supply Chain
+Materials Sourcing & Efficiency440
+Ingredient Sourcing
+
+Apparel, Accessories & Footwear
+CG-AA · Consumer Goods
+NIC C · 14
+3 issues
+Sector C — Manufacturing · Industry 14 — Manufacture of wearing apparel (medium confidence)
+
+Social Capital
+Product Quality & Safety250
+Management of Chemicals in Products
+Business Model and Innovation
+Supply Chain Management430
+Environmental Impacts in the Supply Chain
+Labour Conditions in the Supply Chain
+Materials Sourcing & Efficiency440
+Raw Materials Sourcing
+
+Appliance Manufacturing
+CG-AM · Consumer Goods
+NIC C · 27
+2 issues
+Sector C — Manufacturing · Industry 27 — Manufacture of electrical equipment
+
+Social Capital
+Product Quality & Safety250
+Product Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Lifecycle Environmental Impacts
+
+Asset Management & Custody Activities
+FN-AC · Financials
+NIC K · 66
+4 issues
+Sector K — Financial and insurance activities · Industry 66 — Other financial activities
+
+Social Capital
+Selling Practices & Product Labeling270
+Transparent Information & Fair Advice for Customers
+Human Capital
+Employee Engagement, Diversity & Inclusion330
+Employee Diversity & Inclusion
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory
+Financed Emissions
+Leadership and Governance
+Business Ethics510
+Business Ethics
+
+Auto Parts
+TR-AP · Transportation
+NIC C · 29
+6 issues
+Sector C — Manufacturing · Industry 29 — Manufacture of motor vehicles, trailers and semi-trailers
+
+Environment
+Energy Management130
+Energy Management
+Waste & Hazardous Materials Management150
+Waste Management
+Social Capital
+Product Quality & Safety250
+Product Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Design for Fuel Efficiency
+Materials Sourcing & Efficiency440
+Materials Sourcing
+Materials Efficiency
+Leadership and Governance
+Competitive Behaviour520
+Competitive Behaviour
+
+Automobiles
+TR-AU · Transportation
+NIC C · 29
+4 issues
+Sector C — Manufacturing · Industry 29 — Manufacture of motor vehicles, trailers and semi-trailers
+
+Social Capital
+Product Quality & Safety250
+Product Safety
+Human Capital
+Labour Practices310
+Labour Practices
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Fuel Economy & Use-phase Emissions
+Materials Sourcing & Efficiency440
+Materials Sourcing
+Materials Efficiency & Recycling
+
+Biofuels
+RR-BI · Renewable Resources & Alternative Energy
+NIC C · 20
+6 issues
+Sector C — Manufacturing · Industry 20 — Manufacture of chemicals and chemical products (medium confidence)
+
+Environment
+Air Quality120
+Air Quality
+Water & Wastewater Management140
+Water Management in Manufacturing
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Lifecycle Emissions Balance
+Supply Chain Management430
+Sourcing & Environmental Impacts of Feedstock Production
+Leadership and Governance
+Management of the Legal & Regulatory Environment530
+Management of the Legal & Regulatory Environment
+Critical Incident Risk Management540
+Operational Safety, Emergency Preparedness & Response
+
+Biotechnology & Pharmaceuticals
+HC-BP · Health Care
+NIC C · 21
+8 issues
+Sector C — Manufacturing · Industry 21 — Manufacture of pharmaceuticals, medicinal chemical and botanical products
+
+Social Capital
+Human Rights & Community Relations210
+Safety of Clinical Trial Participants
+Access & Affordability240
+Access to Medicines
+Affordability & Pricing
+Product Quality & Safety250
+Drug Safety
+Customer Welfare260
+Counterfeit Drugs
+Selling Practices & Product Labeling270
+Ethical Marketing
+Human Capital
+Employee Engagement, Diversity & Inclusion330
+Employee Recruitment, Development & Retention
+Business Model and Innovation
+Supply Chain Management430
+Supply Chain Management
+Leadership and Governance
+Business Ethics510
+Business Ethics
+
+Building Products & Furnishings
+CG-BF · Consumer Goods
+NIC C · 23
+4 issues
+Sector C — Manufacturing · Industry 23 — Manufacture of other non-metallic mineral products (medium confidence)
+
+Environment
+Energy Management130
+Energy Management in Manufacturing
+Social Capital
+Product Quality & Safety250
+Management of Chemicals in Products
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Lifecycle Environmental Impacts
+Supply Chain Management430
+Wood Supply Chain Management
+
+Car Rental & Leasing
+TR-CR · Transportation
+NIC N · 77
+2 issues
+Sector N — Administrative and support service activities · Industry 77 — Rental and leasing activities
+
+Social Capital
+Product Quality & Safety250
+Customer Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Fleet Fuel Economy & Utilisation
+
+Casinos & Gaming
+SV-CA · Services
+NIC R · 92
+4 issues
+Sector R — Arts, entertainment and recreation · Industry 92 — Gambling and betting activities
+
+Environment
+Energy Management130
+Energy Management
+Social Capital
+Customer Welfare260
+Responsible Gaming
+Human Capital
+Employee Health & Safety320
+Smoke-free Casinos
+Leadership and Governance
+Business Ethics510
+Internal Controls on Money Laundering
+
+Chemicals
+RT-CH · Resource Transformation
+NIC C · 20
+10 issues
+Sector C — Manufacturing · Industry 20 — Manufacture of chemicals and chemical products
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Hazardous Waste Management
+Social Capital
+Human Rights & Community Relations210
+Community Relations
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Design for Use-phase Efficiency
+Safety & Environmental Stewardship of Chemicals
+Genetically Modified Organisms
+Leadership and Governance
+Management of the Legal & Regulatory Environment530
+Management of the Legal & Regulatory Environment
+Critical Incident Risk Management540
+Operational Safety, Emergency Preparedness & Response
+
+Coal Operations
+EM-CO · Extractives & Minerals Processing
+NIC B · 05
+9 issues
+Sector B — Mining and quarrying · Industry 05 — Mining of coal and lignite
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Waste Management
+Ecological Impacts160
+Biodiversity Impacts
+Social Capital
+Human Rights & Community Relations210
+Rights of Indigenous Peoples
+Community Relations
+Human Capital
+Labour Practices310
+Labour Relations
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Business Model Resilience420
+Reserves Valuation & Capital Expenditures
+Leadership and Governance
+Critical Incident Risk Management540
+Tailings Storage Facilities Management
+
+Commercial Banks
+FN-CB · Financials
+NIC K · 64
+5 issues
+Sector K — Financial and insurance activities · Industry 64 — Financial service activities, except insurance and pension funding
+
+Social Capital
+Data Security230
+Data Security
+Access & Affordability240
+Financial Inclusion & Capacity Building
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Incorporation of Environmental, Social, and Governance Factors in Credit Analysis
+Financed Emissions
+Leadership and Governance
+Business Ethics510
+Business Ethics
+Systemic Risk Management550
+Systemic Risk Management
+
+Construction Materials
+EM-CM · Extractives & Minerals Processing
+NIC C · 23
+9 issues
+Sector C — Manufacturing · Industry 23 — Manufacture of other non-metallic mineral products
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Waste Management
+Ecological Impacts160
+Biodiversity Impacts
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Innovation
+Leadership and Governance
+Competitive Behaviour520
+Pricing Integrity & Transparency
+
+Consumer Finance
+FN-CF · Financials
+NIC K · 64
+3 issues
+Sector K — Financial and insurance activities · Industry 64 — Financial service activities, except insurance and pension funding
+
+Social Capital
+Customer Privacy220
+Customer Privacy
+Data Security230
+Data Security
+Selling Practices & Product Labeling270
+Selling Practices
+
+Containers & Packaging
+RT-CP · Resource Transformation
+NIC C · 22
+8 issues
+Sector C — Manufacturing · Industry 22 — Manufacture of rubber and plastics products (low confidence)
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Waste Management
+Social Capital
+Product Quality & Safety250
+Product Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Lifecycle Management
+Supply Chain Management430
+Supply Chain Management
+
+Cruise Lines
+TR-CL · Transportation
+NIC H · 50
+7 issues
+Sector H — Transportation and storage · Industry 50 — Water transport
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Ecological Impacts160
+Discharge Management & Ecological Impacts
+Social Capital
+Product Quality & Safety250
+Customer Health & Safety
+Human Capital
+Labour Practices310
+Labour Practices
+Employee Health & Safety320
+Workforce Health & Safety
+Leadership and Governance
+Critical Incident Risk Management540
+Accident Management
+
+Drug Retailers
+HC-DR · Health Care
+NIC G · 47
+4 issues
+Sector G — Wholesale and retail trade; repair of motor vehicles and motorcycles · Industry 47 — Retail trade, except of motor vehicles and motorcycles
+
+Environment
+Energy Management130
+Energy Management in Retail
+Social Capital
+Data Security230
+Data Security & Privacy
+Product Quality & Safety250
+Drug Supply Chain Integrity
+Customer Welfare260
+Management of Controlled Substances
+Patient Health Outcomes
+
+E-Commerce
+CG-EC · Consumer Goods
+NIC G · 47
+5 issues
+Sector G — Wholesale and retail trade; repair of motor vehicles and motorcycles · Industry 47 — Retail trade, except of motor vehicles and motorcycles (medium confidence)
+
+Environment
+Energy Management130
+Hardware Infrastructure Energy & Water Management
+Social Capital
+Customer Privacy220
+Data Privacy & Advertising Standards
+Data Security230
+Data Security
+Human Capital
+Employee Engagement, Diversity & Inclusion330
+Employee Recruitment, Inclusion & Performance
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Packaging & Distribution
+
+Education
+SV-ED · Services
+NIC P · 85
+3 issues
+Sector P — Education · Industry 85 — Education
+
+Social Capital
+Data Security230
+Data Security
+Customer Welfare260
+Quality of Education & Gainful Employment
+Selling Practices & Product Labeling270
+Marketing & Recruiting Practices
+
+Electric Utilities & Power Generators
+IF-EU · Infrastructure
+NIC D · 35
+9 issues
+Sector D — Electricity, gas, steam and air conditioning supply · Industry 35 — Electricity, gas, steam and air conditioning supply
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions & Energy Resource Planning
+Air Quality120
+Air Quality
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Coal Ash Management
+Social Capital
+Access & Affordability240
+Energy Affordability
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Business Model Resilience420
+End-Use Efficiency & Demand
+Leadership and Governance
+Critical Incident Risk Management540
+Nuclear Safety & Emergency Management
+Systemic Risk Management550
+Grid Resiliency
+
+Electrical & Electronic Equipment
+RT-EE · Resource Transformation
+NIC C · 27
+6 issues
+Sector C — Manufacturing · Industry 27 — Manufacture of electrical equipment (medium confidence)
+
+Environment
+Energy Management130
+Energy Management
+Waste & Hazardous Materials Management150
+Hazardous Waste Management
+Social Capital
+Product Quality & Safety250
+Product Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Lifecycle Management
+Materials Sourcing & Efficiency440
+Materials Sourcing
+Leadership and Governance
+Business Ethics510
+Business Ethics
+
+Electronic Manufacturing Services & Original Design Manufacturing
+TC-ES · Technology & Communications
+NIC C · 26
+6 issues
+Sector C — Manufacturing · Industry 26 — Manufacture of computer, electronic and optical products
+
+Environment
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Waste Management
+Human Capital
+Labour Practices310
+Labour Practices
+Employee Health & Safety320
+Workforce Conditions, Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Lifecycle Management
+Materials Sourcing & Efficiency440
+Materials Sourcing
+
+Engineering & Construction Services
+IF-EN · Infrastructure
+NIC F · 42
+5 issues
+Sector F — Construction · Industry 42 — Civil engineering (medium confidence)
+
+Environment
+Ecological Impacts160
+Environmental Impacts of Project Development
+Social Capital
+Product Quality & Safety250
+Structural Integrity & Safety
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Lifecycle Impacts of Buildings & Infrastructure
+Climate Impacts of Business Mix
+Leadership and Governance
+Business Ethics510
+Business Ethics
+
+Food Retailers & Distributors
+FB-FR · Food & Beverage
+NIC G · 47
+9 issues
+Sector G — Wholesale and retail trade; repair of motor vehicles and motorcycles · Industry 47 — Retail trade, except of motor vehicles and motorcycles
+
+Environment
+GHG Emissions110
+Fleet Fuel Management
+Air Emissions from Refrigeration
+Energy Management130
+Energy Management
+Waste & Hazardous Materials Management150
+Food Waste Management
+Social Capital
+Data Security230
+Data Security
+Product Quality & Safety250
+Food Safety
+Customer Welfare260
+Product Health & Nutrition
+Selling Practices & Product Labeling270
+Product Labelling & Marketing
+Human Capital
+Labour Practices310
+Labour Practices
+Business Model and Innovation
+Supply Chain Management430
+Management of Environmental & Social Impacts in the Supply Chain
+
+Forestry Management
+RR-FM · Renewable Resources & Alternative Energy
+NIC A · 02
+3 issues
+Sector A — Agriculture, forestry and fishing · Industry 02 — Forestry and logging
+
+Environment
+Ecological Impacts160
+Ecosystem Services & Impacts
+Social Capital
+Human Rights & Community Relations210
+Rights of Indigenous Peoples
+Business Model and Innovation
+Physical Impacts of Climate Change450
+Climate Change Adaptation
+
+Fuel Cells & Industrial Batteries
+RR-FC · Renewable Resources & Alternative Energy
+NIC C · 27
+4 issues
+Sector C — Manufacturing · Industry 27 — Manufacture of electrical equipment
+
+Environment
+Energy Management130
+Energy Management
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Efficiency
+Product End-of-life Management
+Materials Sourcing & Efficiency440
+Materials Sourcing
+
+Gas Utilities & Distributors
+IF-GU · Infrastructure
+NIC D · 35
+3 issues
+Sector D — Electricity, gas, steam and air conditioning supply · Industry 35 — Electricity, gas, steam and air conditioning supply
+
+Social Capital
+Access & Affordability240
+Energy Affordability
+Business Model and Innovation
+Business Model Resilience420
+End-Use Efficiency
+Leadership and Governance
+Critical Incident Risk Management540
+Integrity of Gas Delivery Infrastructure
+
+Hardware
+TC-HW · Technology & Communications
+NIC C · 26
+5 issues
+Sector C — Manufacturing · Industry 26 — Manufacture of computer, electronic and optical products
+
+Social Capital
+Data Security230
+Product Security
+Human Capital
+Employee Engagement, Diversity & Inclusion330
+Employee Diversity & Inclusion
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Lifecycle Management
+Supply Chain Management430
+Supply Chain Management
+Materials Sourcing & Efficiency440
+Materials Sourcing
+
+Health Care Delivery
+HC-DY · Health Care
+NIC Q · 86
+11 issues
+Sector Q — Human health and social work activities · Industry 86 — Human health activities
+
+Environment
+Energy Management130
+Energy Management
+Waste & Hazardous Materials Management150
+Waste Management
+Social Capital
+Data Security230
+Patient Privacy & Electronic Health Records
+Access & Affordability240
+Access for Low-Income Patients
+Product Quality & Safety250
+Quality of Care & Patient Satisfaction
+Customer Welfare260
+Management of Controlled Substances
+Selling Practices & Product Labeling270
+Pricing & Billing Transparency
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Employee Engagement, Diversity & Inclusion330
+Employee Recruitment, Development & Retention
+Business Model and Innovation
+Physical Impacts of Climate Change450
+Climate Change Impacts on Human Health & Infrastructure
+Leadership and Governance
+Business Ethics510
+Fraud & Unnecessary Procedures
+
+Health Care Distributors
+HC-DI · Health Care
+NIC G · 46
+5 issues
+Sector G — Wholesale and retail trade; repair of motor vehicles and motorcycles · Industry 46 — Wholesale trade, except of motor vehicles and motorcycles
+
+Environment
+GHG Emissions110
+Fleet Fuel Management
+Social Capital
+Product Quality & Safety250
+Product Safety
+Customer Welfare260
+Counterfeit Drugs
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Lifecycle Management
+Leadership and Governance
+Business Ethics510
+Business Ethics
+
+Home Builders
+IF-HB · Infrastructure
+NIC F · 41
+4 issues
+Sector F — Construction · Industry 41 — Construction of buildings
+
+Environment
+Ecological Impacts160
+Land Use & Ecological Impacts
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Design for Resource Efficiency
+Community Impacts of New Developments
+Business Model Resilience420
+Climate Change Adaptation
+
+Hotels & Lodging
+SV-HL · Services
+NIC I · 55
+5 issues
+Sector I — Accommodation and Food service activities · Industry 55 — Accommodation
+
+Environment
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Ecological Impacts160
+Ecological Impacts
+Human Capital
+Labour Practices310
+Labour Practices
+Business Model and Innovation
+Physical Impacts of Climate Change450
+Climate Change Adaptation
+
+Household & Personal Products
+CG-HP · Consumer Goods
+NIC C · 20
+4 issues
+Sector C — Manufacturing · Industry 20 — Manufacture of chemicals and chemical products
+
+Environment
+Water & Wastewater Management140
+Water Management
+Social Capital
+Product Quality & Safety250
+Product Environmental, Health and Safety Performance
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Packaging Lifecycle Management
+Supply Chain Management430
+Environmental & Social Impacts of Palm Oil Supply Chain
+
+Industrial Machinery & Goods
+RT-IG · Resource Transformation
+NIC C · 28
+4 issues
+Sector C — Manufacturing · Industry 28 — Manufacture of machinery and equipment n.e.c.
+
+Environment
+Energy Management130
+Energy Management
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Fuel Economy & Emissions in Use-phase
+Materials Sourcing & Efficiency440
+Materials Sourcing
+Remanufacturing Design & Services
+
+Insurance
+FN-IN · Financials
+NIC K · 65
+4 issues
+Sector K — Financial and insurance activities · Industry 65 — Insurance, reinsurance and pension funding, except compulsory social security
+
+Social Capital
+Selling Practices & Product Labeling270
+Transparent Information & Fair Advice for Customers
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Incorporation of Environmental, Social and Governance Factors in Investment Management
+Policies Designed to Incentivise Responsible Behaviour
+Financed Emissions
+Physical Impacts of Climate Change450
+Physical Risk Exposure
+Leadership and Governance
+Systemic Risk Management550
+Systemic Risk Management
+
+Internet Media & Services
+TC-IM · Technology & Communications
+NIC J · 63
+5 issues
+Sector J — Information and communication · Industry 63 — Information service activities (medium confidence)
+
+Environment
+Energy Management130
+Environmental Footprint of Hardware Infrastructure
+Social Capital
+Customer Privacy220
+Data Privacy, Advertising Standards & Freedom of Expression
+Data Security230
+Data Security
+Human Capital
+Employee Engagement, Diversity & Inclusion330
+Employee Recruitment, Inclusion & Performance
+Leadership and Governance
+Competitive Behaviour520
+Intellectual Property Protection & Competitive Behaviour
+
+Investment Banking & Brokerage
+FN-IB · Financials
+NIC K · 66
+4 issues
+Sector K — Financial and insurance activities · Industry 66 — Other financial activities
+
+Human Capital
+Employee Engagement, Diversity & Inclusion330
+Employee Diversity & Inclusion
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Incorporation of Environmental, Social, and Governance Factors in Investment Banking & Brokerage Activities
+Leadership and Governance
+Business Ethics510
+Business Ethics
+Professional Integrity
+Systemic Risk Management550
+Systemic Risk Management
+Employee Incentives & Risk-taking
+
+Iron & Steel Producers
+EM-IS · Extractives & Minerals Processing
+NIC C · 24
+7 issues
+Sector C — Manufacturing · Industry 24 — Manufacture of basic metals
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Waste Management
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Supply Chain Management430
+Supply Chain Management
+
+Leisure Facilities
+SV-LF · Services
+NIC R · 93
+3 issues
+Sector R — Arts, entertainment and recreation · Industry 93 — Sports activities and amusement and recreation activities
+
+Environment
+Energy Management130
+Energy Management
+Social Capital
+Product Quality & Safety250
+Customer Safety
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+
+Managed Care
+HC-MC · Health Care
+NIC K · 65
+5 issues
+Sector K — Financial and insurance activities · Industry 65 — Insurance, reinsurance and pension funding, except compulsory social security (medium confidence)
+
+Social Capital
+Data Security230
+Customer Privacy & Technology Standards
+Access & Affordability240
+Access to Coverage
+Product Quality & Safety250
+Plan Performance
+Customer Welfare260
+Improved Outcomes
+Business Model and Innovation
+Physical Impacts of Climate Change450
+Climate Change Impacts on Human Health
+
+Marine Transportation
+TR-MT · Transportation
+NIC H · 50
+6 issues
+Sector H — Transportation and storage · Industry 50 — Water transport
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Ecological Impacts160
+Ecological Impacts
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Leadership and Governance
+Business Ethics510
+Business Ethics
+Critical Incident Risk Management540
+Accident & Safety Management
+
+Meat, Poultry & Dairy
+FB-MP · Food & Beverage
+NIC C · 10
+10 issues
+Sector C — Manufacturing · Industry 10 — Manufacture of food products
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Ecological Impacts160
+Land Use & Ecological Impacts
+Social Capital
+Product Quality & Safety250
+Food Safety
+Customer Welfare260
+Antibiotic Use in Animal Production
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Animal Care & Welfare
+Supply Chain Management430
+Environmental & Social Impacts of Animal Supply Chain
+Materials Sourcing & Efficiency440
+Animal & Feed Sourcing
+
+Media & Entertainment
+SV-ME · Services
+NIC J · 59
+3 issues
+Sector J — Information and communication · Industry 59 — Motion picture, video and television programme production, sound recording and music publishing activities (medium confidence)
+
+Social Capital
+Customer Welfare260
+Media Pluralism
+Selling Practices & Product Labeling270
+Journalistic Integrity & Sponsorship Identification
+Leadership and Governance
+Competitive Behaviour520
+Intellectual Property Protection & Media Piracy
+
+Medical Equipment & Supplies
+HC-MS · Health Care
+NIC C · 32
+6 issues
+Sector C — Manufacturing · Industry 32 — Other manufacturing (medium confidence)
+
+Social Capital
+Access & Affordability240
+Affordability & Pricing
+Product Quality & Safety250
+Product Safety
+Selling Practices & Product Labeling270
+Ethical Marketing
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Design & Lifecycle Management
+Supply Chain Management430
+Supply Chain Management
+Leadership and Governance
+Business Ethics510
+Business Ethics
+
+Metals & Mining
+EM-MM · Extractives & Minerals Processing
+NIC B · 07
+11 issues
+Sector B — Mining and quarrying · Industry 07 — Mining of metal ores
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Waste & Hazardous Materials Management
+Ecological Impacts160
+Biodiversity Impacts
+Social Capital
+Human Rights & Community Relations210
+Security, Human Rights & Rights of Indigenous Peoples
+Community Relations
+Human Capital
+Labour Practices310
+Labour Practices
+Employee Health & Safety320
+Workforce Health & Safety
+Leadership and Governance
+Business Ethics510
+Business Ethics & Transparency
+Critical Incident Risk Management540
+Tailings Storage Facilities Management
+
+Mortgage Finance
+FN-MF · Financials
+NIC K · 64
+2 issues
+Sector K — Financial and insurance activities · Industry 64 — Financial service activities, except insurance and pension funding
+
+Social Capital
+Selling Practices & Product Labeling270
+Lending Practices
+Discriminatory Lending
+Business Model and Innovation
+Physical Impacts of Climate Change450
+Environmental Risk to Mortgaged Properties
+
+Multiline and Specialty Retailers & Distributors
+CG-MR · Consumer Goods
+NIC G · 47
+5 issues
+Sector G — Wholesale and retail trade; repair of motor vehicles and motorcycles · Industry 47 — Retail trade, except of motor vehicles and motorcycles
+
+Environment
+Energy Management130
+Energy Management in Retail & Distribution
+Social Capital
+Data Security230
+Data Security
+Human Capital
+Labour Practices310
+Labour Practices
+Employee Engagement, Diversity & Inclusion330
+Workforce Diversity & Inclusion
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Sourcing, Packaging & Marketing
+
+Non-Alcoholic Beverages
+FB-NB · Food & Beverage
+NIC C · 11
+8 issues
+Sector C — Manufacturing · Industry 11 — Manufacture of beverages
+
+Environment
+GHG Emissions110
+Fleet Fuel Management
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Social Capital
+Customer Welfare260
+Health & Nutrition
+Selling Practices & Product Labeling270
+Product Labelling & Marketing
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Packaging Lifecycle Management
+Supply Chain Management430
+Environmental & Social Impacts of Ingredient Supply Chain
+Materials Sourcing & Efficiency440
+Ingredient Sourcing
+
+Oil & Gas – Exploration & Production
+EM-EP · Extractives & Minerals Processing
+NIC B · 06
+10 issues
+Sector B — Mining and quarrying · Industry 06 — Extraction of crude petroleum and natural gas
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Water & Wastewater Management140
+Water Management
+Ecological Impacts160
+Biodiversity Impacts
+Social Capital
+Human Rights & Community Relations210
+Security, Human Rights & Rights of Indigenous Peoples
+Community Relations
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Business Model Resilience420
+Reserves Valuation & Capital Expenditures
+Leadership and Governance
+Business Ethics510
+Business Ethics & Transparency
+Management of the Legal & Regulatory Environment530
+Management of the Legal & Regulatory Environment
+Critical Incident Risk Management540
+Critical Incident Risk Management
+
+Oil & Gas – Midstream
+EM-MD · Extractives & Minerals Processing
+NIC H · 49
+5 issues
+Sector H — Transportation and storage · Industry 49 — Land transport and transport via pipelines (medium confidence)
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Ecological Impacts160
+Ecological Impacts
+Leadership and Governance
+Competitive Behaviour520
+Competitive Behaviour
+Critical Incident Risk Management540
+Operational Safety, Emergency Preparedness & Response
+
+Oil & Gas – Refining & Marketing
+EM-RM · Extractives & Minerals Processing
+NIC C · 19
+9 issues
+Sector C — Manufacturing · Industry 19 — Manufacture of coke and refined petroleum products
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Hazardous Materials Management
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Specifications & Clean Fuel Blends
+Leadership and Governance
+Competitive Behaviour520
+Pricing Integrity & Transparency
+Management of the Legal & Regulatory Environment530
+Management of the Legal & Regulatory Environment
+Critical Incident Risk Management540
+Critical Incident Risk Management
+
+Oil & Gas – Services
+EM-SV · Extractives & Minerals Processing
+NIC B · 09
+8 issues
+Sector B — Mining and quarrying · Industry 09 — Mining support service activities
+
+Environment
+GHG Emissions110
+Emissions Reduction Services & Fuels Management
+Water & Wastewater Management140
+Water Management Services
+Waste & Hazardous Materials Management150
+Chemicals Management
+Ecological Impacts160
+Ecological Impact Management
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Leadership and Governance
+Business Ethics510
+Business Ethics & Payments Transparency
+Management of the Legal & Regulatory Environment530
+Management of the Legal & Regulatory Environment
+Critical Incident Risk Management540
+Critical Incident Risk Management
+
+Processed Foods
+FB-PF · Food & Beverage
+NIC C · 10
+8 issues
+Sector C — Manufacturing · Industry 10 — Manufacture of food products
+
+Environment
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Social Capital
+Product Quality & Safety250
+Food Safety
+Customer Welfare260
+Health & Nutrition
+Selling Practices & Product Labeling270
+Product Labelling & Marketing
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Packaging Lifecycle Management
+Supply Chain Management430
+Environmental & Social Impacts of Ingredient Supply Chain
+Materials Sourcing & Efficiency440
+Ingredient Sourcing
+
+Professional & Commercial Services
+SV-PS · Services
+NIC N · 82
+3 issues
+Sector N — Administrative and support service activities · Industry 82 — Office administrative, office support and other business support activities (low confidence)
+
+Social Capital
+Data Security230
+Data Security
+Human Capital
+Employee Engagement, Diversity & Inclusion330
+Workforce Diversity & Engagement
+Leadership and Governance
+Business Ethics510
+Professional Integrity
+
+Pulp & Paper Products
+RR-PP · Renewable Resources & Alternative Energy
+NIC C · 17
+5 issues
+Sector C — Manufacturing · Industry 17 — Manufacture of paper and paper products
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Business Model and Innovation
+Supply Chain Management430
+Supply Chain Management
+
+Rail Transportation
+TR-RA · Transportation
+NIC H · 49
+5 issues
+Sector H — Transportation and storage · Industry 49 — Land transport and transport via pipelines
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Leadership and Governance
+Competitive Behaviour520
+Competitive Behaviour
+Critical Incident Risk Management540
+Accident & Safety Management
+
+Real Estate
+IF-RE · Infrastructure
+NIC L · 68
+4 issues
+Sector L — Real estate activities · Industry 68 — Real estate activities
+
+Environment
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Management of Tenant Sustainability Impacts
+Physical Impacts of Climate Change450
+Climate Change Adaptation
+
+Real Estate Services
+IF-RS · Infrastructure
+NIC L · 68
+2 issues
+Sector L — Real estate activities · Industry 68 — Real estate activities
+
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Sustainability Services
+Leadership and Governance
+Business Ethics510
+Transparent Information & Management of Conflict of Interest
+
+Restaurants
+FB-RN · Food & Beverage
+NIC I · 56
+7 issues
+Sector I — Accommodation and Food service activities · Industry 56 — Food and beverage service activities
+
+Environment
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Food & Packaging Waste Management
+Social Capital
+Product Quality & Safety250
+Food Safety
+Customer Welfare260
+Nutritional Content
+Human Capital
+Labour Practices310
+Labour Practices
+Business Model and Innovation
+Supply Chain Management430
+Supply Chain Management & Food Sourcing
+
+Road Transportation
+TR-RO · Transportation
+NIC H · 49
+4 issues
+Sector H — Transportation and storage · Industry 49 — Land transport and transport via pipelines
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Air Quality120
+Air Quality
+Human Capital
+Employee Health & Safety320
+Workforce Conditions, Health & Safety
+Leadership and Governance
+Critical Incident Risk Management540
+Accident & Safety Management
+
+Security & Commodity Exchanges
+FN-EX · Financials
+NIC K · 66
+3 issues
+Sector K — Financial and insurance activities · Industry 66 — Other financial activities
+
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Promoting Transparent & Efficient Capital Markets
+Leadership and Governance
+Business Ethics510
+Managing Conflicts of Interest
+Systemic Risk Management550
+Managing Business Continuity & Technology Risks
+
+Semiconductors
+TC-SC · Technology & Communications
+NIC C · 26
+9 issues
+Sector C — Manufacturing · Industry 26 — Manufacture of computer, electronic and optical products
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Energy Management130
+Energy Management in Manufacturing
+Water & Wastewater Management140
+Water Management
+Waste & Hazardous Materials Management150
+Waste Management
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Employee Engagement, Diversity & Inclusion330
+Recruiting & Managing a Global & Skilled Workforce
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Product Lifecycle Management
+Materials Sourcing & Efficiency440
+Materials Sourcing
+Leadership and Governance
+Competitive Behaviour520
+Intellectual Property Protection & Competitive Behaviour
+
+Software & IT Services
+TC-SI · Technology & Communications
+NIC J · 62
+6 issues
+Sector J — Information and communication · Industry 62 — Computer programming, consultancy and related activities
+
+Environment
+Energy Management130
+Environmental Footprint of Hardware Infrastructure
+Social Capital
+Customer Privacy220
+Data Privacy & Freedom of Expression
+Data Security230
+Data Security
+Human Capital
+Employee Engagement, Diversity & Inclusion330
+Recruiting & Managing a Global, Diverse & Skilled Workforce
+Leadership and Governance
+Competitive Behaviour520
+Intellectual Property Protection & Competitive Behaviour
+Systemic Risk Management550
+Managing Systemic Risks from Technology Disruptions
+
+Solar Technology & Project Developers
+RR-ST · Renewable Resources & Alternative Energy
+NIC C · 26
+6 issues
+Sector C — Manufacturing · Industry 26 — Manufacture of computer, electronic and optical products (low confidence)
+
+Environment
+Energy Management130
+Energy Management in Manufacturing
+Water & Wastewater Management140
+Water Management in Manufacturing
+Waste & Hazardous Materials Management150
+Hazardous Waste Management
+Ecological Impacts160
+Ecological Impacts of Project Development
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Management of Energy Infrastructure Integration & Related Regulations
+Product End-of-life Management
+Materials Sourcing & Efficiency440
+Materials Sourcing
+
+Telecommunication Services
+TC-TL · Technology & Communications
+NIC J · 61
+6 issues
+Sector J — Information and communication · Industry 61 — Telecommunications
+
+Environment
+Energy Management130
+Environmental Footprint of Operations
+Social Capital
+Customer Privacy220
+Data Privacy
+Data Security230
+Data Security
+Business Model and Innovation
+Materials Sourcing & Efficiency440
+Product End-of-life Management
+Leadership and Governance
+Competitive Behaviour520
+Competitive Behaviour & Open Internet
+Systemic Risk Management550
+Managing Systemic Risks from Technology Disruptions
+
+Tobacco
+FB-TB · Food & Beverage
+NIC C · 12
+2 issues
+Sector C — Manufacturing · Industry 12 — Manufacture of tobacco products
+
+Social Capital
+Customer Welfare260
+Public Health
+Selling Practices & Product Labeling270
+Marketing Practices
+
+Toys & Sporting Goods
+CG-TS · Consumer Goods
+NIC C · 32
+2 issues
+Sector C — Manufacturing · Industry 32 — Other manufacturing
+
+Social Capital
+Product Quality & Safety250
+Chemical & Safety Hazards of Products
+Business Model and Innovation
+Supply Chain Management430
+Labour Conditions in the Supply Chain
+
+Waste Management
+IF-WM · Infrastructure
+NIC E · 38
+6 issues
+Sector E — Water supply; sewerage, waste management and remediation activities · Industry 38 — Waste collection, treatment and disposal activities; materials recovery
+
+Environment
+GHG Emissions110
+Greenhouse Gas Emissions
+Fleet Fuel Management
+Air Quality120
+Air Quality
+Waste & Hazardous Materials Management150
+Management of Leachate & Hazardous Waste
+Human Capital
+Labour Practices310
+Labour Practices
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Business Model Resilience420
+Recycling & Resource Recovery
+
+Water Utilities & Services
+IF-WU · Infrastructure
+NIC E · 36
+7 issues
+Sector E — Water supply; sewerage, waste management and remediation activities · Industry 36 — Water collection, treatment and supply
+
+Environment
+Energy Management130
+Energy Management
+Water & Wastewater Management140
+Distribution Network Efficiency
+Effluent Quality Management
+Social Capital
+Access & Affordability240
+Water Affordability & Access
+Product Quality & Safety250
+Drinking Water Quality
+Business Model and Innovation
+Business Model Resilience420
+End-Use Efficiency
+Materials Sourcing & Efficiency440
+Water Supply Resilience
+Physical Impacts of Climate Change450
+Network Resiliency & Impacts of Climate Change
+
+Wind Technology & Project Developers
+RR-WT · Renewable Resources & Alternative Energy
+NIC C · 28
+3 issues
+Sector C — Manufacturing · Industry 28 — Manufacture of machinery and equipment n.e.c. (low confidence)
+
+Human Capital
+Employee Health & Safety320
+Workforce Health & Safety
+Business Model and Innovation
+Product Design & Lifecycle Management410
+Ecological Impacts of Project Development
+Materials Sourcing & Efficiency440
+Materials Sourcing
+Materials Efficiency
