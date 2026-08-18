@@ -1,0 +1,22 @@
+Corporate Governance|Focuses on the frameworks, systems, processes and practices that determine how a company is operated and controlled.
+Stakeholder Governance|Focuses on the broader societal responsibility of companies beyond generating profits for their shareholders.
+Access to Basic Services|Focuses on the management of access to essential products or services such as healthcare services and products to disadvantaged communities or groups.
+Business Ethics|Focuses on the management of ethical issues relevant to most or all sectors, such as taxation, accounting, anti-competitive practices, and intellectual property.
+Community Relations|Explores how companies engage with local communities through involvement, community development, or actions to reduce negative impacts on those communities.
+Data Privacy and Cybersecurity|Focuses on risks to personal information and/or cybersecurity and how companies manage these risks.
+Emissions, Effluents and Waste|Focuses on the management of emissions and releases from a company's own operations to air, water and land, excluding GHG emissions.
+Carbon – Own Operations|Focuses on managing risks from a company's operational energy use and GHG emissions (scope 1 and 2), including certain parts of Scope 3 emissions.
+Carbon – Products and Services|Examines a company's management of the energy efficiency and/or GHG emissions of its services and products during the use phase.
+E&S Impact of Products and Services|Focuses on the management of environmental and social impacts of products and services, including characteristics of input materials and impacts during use, disposal and recycling.
+Human Rights|Focuses on how companies manage and respect fundamental human rights within their own operations.
+Human Rights – Supply Chain|Focuses on a company's management of fundamental human rights issues occurring in its supply chain.
+Human Capital|Focuses on the management of risks from skilled labour shortages and labour relations, including non-discrimination, working hours and minimum wage compliance.
+Land Use and Biodiversity|Examines how companies manage their impact on land, ecosystems and wildlife, covering topics like land conversion, rehabilitation and forest management.
+Land Use and Biodiversity – Supply Chain|Focuses on how companies manage the impact of their suppliers' operations on land, ecosystems and wildlife.
+Occupational Health and Safety|Focuses on the management of workplace hazards for a company's employees and on-site contractors.
+ESG Integration – Financials|Examines all ESG activities by financial institutions aimed at addressing financial risk or seizing business opportunities.
+Product Governance|Examines how companies manage client responsibilities, emphasizing quality management, marketing practices, fair billing and post-sales obligations.
+Resilience|Focuses on the financial stability and the management of related risks in the financial services industry, with emphasis on compliance with capital requirements.
+Water Use – Own Operations|Focuses on how a company uses water in its production processes and how well it manages related risks.
+Water Use – Supply Chain|Focuses on how a company manages risks related to water stress within its supply chain.
+Raw Material Use|Examines how efficiently a company uses critical raw materials (excluding energy, petroleum-based products, and water) in production, focusing on risk management.

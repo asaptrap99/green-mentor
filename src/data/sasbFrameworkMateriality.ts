@@ -43,7 +43,6 @@ function computeSasbSectionMateriality(nicSection: string): FrameworkMateriality
 
   const records: FrameworkMaterialityRecord[] = [];
   for (const [issueId, { count, sasbNames }] of byIssue) {
-    const issue = CANONICAL_ISSUE_BY_ID.get(issueId)!;
     records.push({
       framework: "SASB",
       nicSection,
@@ -51,7 +50,6 @@ function computeSasbSectionMateriality(nicSection: string): FrameworkMateriality
       termName: [...sasbNames].join(" / "),
       weight: Math.round((count / industries.length) * 100) / 100,
       source: "real",
-      sasbGeneralIssue: issue.name,
     });
   }
 

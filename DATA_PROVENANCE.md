@@ -55,14 +55,35 @@ The SASB industry detail block (`src/components/SasbIndustryDetail.tsx`) shows t
 real, un-aggregated per-industry data directly, so an analyst can see the exact
 underlying rows rather than only the aggregated signal.
 
+From **Sustainalytics — 22 Material ESG Issues** (`src/data/sustainalyticsIndustries.json`,
+parsed from the user-provided Sustainalytics-by-subindustry export,
+`scripts/sustainalytics_raw.txt` → `scripts/parse_sustainalytics.py`): **138 real
+Sustainalytics subindustries** (all 138 the source listed — "138 / 138"), each with
+a NIC Section + 2-digit Industry code, a mapping confidence, and its flagged subset
+of the 22 Material ESG Issues (MEIs), plus the full text definitions of all 22
+MEIs. Verified: every subindustry's stated MEI count matches its parsed
+material-issue list exactly (0 mismatches).
+
+**How Sustainalytics is used in the app**
+(`src/data/sustainalyticsFrameworkMateriality.ts`,
+`src/data/sustainalyticsCrosswalk.ts`): identical approach and identical two
+limitations as SASB above — NIC-Industry-granularity data aggregated to NIC-Section
+because BRSR companies don't carry an industry digit, and a hand-authored crosswalk
+from the 22 MEI names to the BRSR canonical issue set (e.g. "Carbon – Own
+Operations" → "Climate Change & GHG Emissions"). The Sustainalytics industry detail
+block (`src/components/SustainalyticsIndustryDetail.tsx`) shows the real,
+un-aggregated rows.
+
+**SASB and Sustainalytics are now both real data.** Only MSCI remains mocked.
+
 ## Mock / placeholder data
 
-- **`src/data/frameworkMateriality.mock.ts`** — Sustainalytics' 22 Material ESG
-  Issues and MSCI's Industry Materiality Map only (SASB is real — see above). The
-  workbook tabs for both are empty of structured data (21 embedded images —
-  screenshots of the admin.greenmentor.co tool, not parseable rows), and per the
-  user, there's no pipeline access to the underlying tool yet. This module
-  generates a deterministic, seeded placeholder dataset shaped to the real
+- **`src/data/frameworkMateriality.mock.ts`** — MSCI's Industry Materiality Map
+  only (SASB and Sustainalytics are real — see above). The MSCI tab is empty of
+  structured data (21 embedded images across the workbook — screenshots of the
+  admin.greenmentor.co tool, not parseable rows), and per the user, there's no
+  pipeline access to the underlying tool yet. This module generates a
+  deterministic, seeded placeholder dataset shaped to the real
   `FrameworkMaterialityRecord` contract (15 NIC sections seeded, weight 0.35–1.0 per
   issue). **Swap this module for real vendor data later — nothing else in the data
   layer needs to change.**

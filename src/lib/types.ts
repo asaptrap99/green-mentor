@@ -43,20 +43,18 @@ export interface CanonicalIssue {
   pillar: Pillar;
 }
 
-/** (Industry Node, Canonical Issue, Framework, weight). Sustainalytics and MSCI
- *  rows are MOCK DATA (see DATA_PROVENANCE.md — those tabs have no structured
- *  source data). SASB rows are REAL, derived from the SASB Materiality Finder
- *  industry data the user provided, via a documented name-based crosswalk from
- *  SASB's ~26 General Issue Categories to the BRSR canonical issue set — see
- *  `source` and `sasbGeneralIssue` below. */
+/** (Industry Node, Canonical Issue, Framework, weight). MSCI rows are MOCK DATA
+ *  (see DATA_PROVENANCE.md — that tab has no structured source data). SASB and
+ *  Sustainalytics rows are REAL, derived from the industry data the user
+ *  provided, via a documented name-based crosswalk from each framework's own
+ *  issue taxonomy to the BRSR canonical issue set — see `source` below. */
 export interface FrameworkMaterialityRecord {
   framework: FrameworkName;
   nicSection: string;
   issueId: string;
-  termName: string; // the framework's own name for this issue
+  termName: string; // the framework's own name(s) for this issue
   weight: number; // 0..1 materiality weight for this industry
   source: "real" | "mock";
-  sasbGeneralIssue?: string; // present on real SASB rows: the SASB General Issue Category name
 }
 
 /** Real SASB Materiality Finder data, one row per SASB industry, keyed to a NIC
@@ -77,6 +75,18 @@ export interface SasbIndustryProfile {
   issuesCount: number;
   confidence: "high" | "medium" | "low";
   generalIssues: SasbGeneralIssue[];
+}
+
+/** Real Sustainalytics "22 Material ESG Issues" data, one row per Sustainalytics
+ *  subindustry, keyed to a NIC Section + 2-digit Industry code. Source:
+ *  user-provided Sustainalytics subindustry export. */
+export interface SustainalyticsIndustryProfile {
+  name: string;
+  nicSection: string;
+  nicIndustryCode: string;
+  meiCount: number;
+  confidence: "high" | "medium" | "low";
+  materialIssues: string[]; // names of the flagged Material ESG Issues (of the 22)
 }
 
 export interface BrsrTopicRecord {

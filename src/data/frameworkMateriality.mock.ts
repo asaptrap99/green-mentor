@@ -2,17 +2,18 @@ import type { FrameworkMaterialityRecord, FrameworkName } from "@/lib/types";
 import { CANONICAL_ISSUES } from "./canonicalIssues";
 
 /**
- * MOCK DATA — Sustainalytics and MSCI only. See DATA_PROVENANCE.md.
+ * MOCK DATA — MSCI only. See DATA_PROVENANCE.md.
  *
- * Sustainalytics' 22 Material ESG Issues and MSCI's ESG Industry Materiality Map
- * exist only as screenshots of an external tool (admin.greenmentor.co) in the
- * source workbook — there is no structured data to parse. This module generates a
- * realistic, deterministic placeholder dataset shaped to the real
- * FrameworkMaterialityRecord contract, so the gap chart, framework comparison
- * panel, and passport are fully functional today. Swap this module for a real data
- * source later — nothing else in the data layer needs to change.
+ * MSCI's ESG Industry Materiality Map exists only as a screenshot of an external
+ * tool (admin.greenmentor.co) in the source workbook — there is no structured data
+ * to parse. This module generates a realistic, deterministic placeholder dataset
+ * shaped to the real FrameworkMaterialityRecord contract, so the gap chart,
+ * framework comparison panel, and passport are fully functional today. Swap this
+ * module for a real data source later — nothing else in the data layer needs to
+ * change.
  *
- * (SASB is no longer mocked — see sasbFrameworkMateriality.ts for real data.)
+ * (SASB and Sustainalytics are no longer mocked — see sasbFrameworkMateriality.ts
+ * and sustainalyticsFrameworkMateriality.ts for real data.)
  *
  * Only NIC sections with real BRSR company coverage are seeded; the rest are left
  * unmapped so the UI's "not yet mapped" fallback path is exercised honestly.
@@ -37,7 +38,7 @@ function hashString(s: string): number {
   return h;
 }
 
-const FRAMEWORKS: FrameworkName[] = ["Sustainalytics", "MSCI"];
+const FRAMEWORKS: FrameworkName[] = ["MSCI"];
 
 function generate(): FrameworkMaterialityRecord[] {
   const records: FrameworkMaterialityRecord[] = [];

@@ -9,6 +9,7 @@ import { PeerBenchmarkStrip } from "@/components/PeerBenchmarkStrip";
 import { SectorMaterialitySplit } from "@/components/SectorMaterialitySplit";
 import { TaxonomyExplorer } from "@/components/TaxonomyExplorer";
 import { SasbIndustryDetail } from "@/components/SasbIndustryDetail";
+import { SustainalyticsIndustryDetail } from "@/components/SustainalyticsIndustryDetail";
 import { getCompanyBySymbol, getCompanyMaterialityProfile } from "@/lib/dataLayer";
 
 const DEFAULT_SYMBOL = "ADANIPOWER";
@@ -44,6 +45,7 @@ export default function Home() {
               <div className="flex flex-col gap-6 lg:col-span-2">
                 <FrameworkComparison profile={profile} />
                 <SasbIndustryDetail nicSection={profile.company.nicSection} />
+                <SustainalyticsIndustryDetail nicSection={profile.company.nicSection} />
               </div>
               <SectorMaterialitySplit highlightSection={profile.company.nicSection} />
             </div>

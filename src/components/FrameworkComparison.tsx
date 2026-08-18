@@ -34,8 +34,8 @@ export function FrameworkComparison({ profile }: { profile: CompanyMaterialityPr
       </h3>
       <p className="mb-3 text-sm text-[--text-secondary]">
         Rows highlighted where all three frameworks agree an issue is material.
-        SASB is real data (aggregated from the SASB Materiality Finder industry
-        export); Sustainalytics and MSCI are placeholder mock data — see{" "}
+        SASB and Sustainalytics are real data (aggregated from their industry
+        exports); MSCI is placeholder mock data — see{" "}
         <code>DATA_PROVENANCE.md</code>.
       </p>
       <div className="overflow-x-auto">
@@ -48,12 +48,12 @@ export function FrameworkComparison({ profile }: { profile: CompanyMaterialityPr
                   {f}
                   <span
                     className={`ml-1.5 rounded-full px-1.5 py-0.5 text-[10px] font-normal ${
-                      f === "SASB"
+                      f !== "MSCI"
                         ? "bg-[#1baf7a26] text-[#0f7a52]"
                         : "bg-[--surface-2] text-[--text-secondary]"
                     }`}
                   >
-                    {f === "SASB" ? "real" : "mock"}
+                    {f !== "MSCI" ? "real" : "mock"}
                   </span>
                 </th>
               ))}

@@ -1,0 +1,2489 @@
+{
+  "definitions": {
+    "Corporate Governance": "Focuses on the frameworks, systems, processes and practices that determine how a company is operated and controlled.",
+    "Stakeholder Governance": "Focuses on the broader societal responsibility of companies beyond generating profits for their shareholders.",
+    "Access to Basic Services": "Focuses on the management of access to essential products or services such as healthcare services and products to disadvantaged communities or groups.",
+    "Business Ethics": "Focuses on the management of ethical issues relevant to most or all sectors, such as taxation, accounting, anti-competitive practices, and intellectual property.",
+    "Community Relations": "Explores how companies engage with local communities through involvement, community development, or actions to reduce negative impacts on those communities.",
+    "Data Privacy and Cybersecurity": "Focuses on risks to personal information and/or cybersecurity and how companies manage these risks.",
+    "Emissions, Effluents and Waste": "Focuses on the management of emissions and releases from a company's own operations to air, water and land, excluding GHG emissions.",
+    "Carbon \u2013 Own Operations": "Focuses on managing risks from a company's operational energy use and GHG emissions (scope 1 and 2), including certain parts of Scope 3 emissions.",
+    "Carbon \u2013 Products and Services": "Examines a company's management of the energy efficiency and/or GHG emissions of its services and products during the use phase.",
+    "E&S Impact of Products and Services": "Focuses on the management of environmental and social impacts of products and services, including characteristics of input materials and impacts during use, disposal and recycling.",
+    "Human Rights": "Focuses on how companies manage and respect fundamental human rights within their own operations.",
+    "Human Rights \u2013 Supply Chain": "Focuses on a company's management of fundamental human rights issues occurring in its supply chain.",
+    "Human Capital": "Focuses on the management of risks from skilled labour shortages and labour relations, including non-discrimination, working hours and minimum wage compliance.",
+    "Land Use and Biodiversity": "Examines how companies manage their impact on land, ecosystems and wildlife, covering topics like land conversion, rehabilitation and forest management.",
+    "Land Use and Biodiversity \u2013 Supply Chain": "Focuses on how companies manage the impact of their suppliers' operations on land, ecosystems and wildlife.",
+    "Occupational Health and Safety": "Focuses on the management of workplace hazards for a company's employees and on-site contractors.",
+    "ESG Integration \u2013 Financials": "Examines all ESG activities by financial institutions aimed at addressing financial risk or seizing business opportunities.",
+    "Product Governance": "Examines how companies manage client responsibilities, emphasizing quality management, marketing practices, fair billing and post-sales obligations.",
+    "Resilience": "Focuses on the financial stability and the management of related risks in the financial services industry, with emphasis on compliance with capital requirements.",
+    "Water Use \u2013 Own Operations": "Focuses on how a company uses water in its production processes and how well it manages related risks.",
+    "Water Use \u2013 Supply Chain": "Focuses on how a company manages risks related to water stress within its supply chain.",
+    "Raw Material Use": "Examines how efficiently a company uses critical raw materials (excluding energy, petroleum-based products, and water) in production, focusing on risk management."
+  },
+  "industries": [
+    {
+      "name": "Advertising",
+      "nicSection": "M",
+      "nicIndustryCode": "73",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Aerospace and Defence",
+      "nicSection": "C",
+      "nicIndustryCode": "30",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Agricultural Chemicals",
+      "nicSection": "C",
+      "nicIndustryCode": "20",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Agricultural Machinery",
+      "nicSection": "C",
+      "nicIndustryCode": "28",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Agriculture",
+      "nicSection": "A",
+      "nicIndustryCode": "01",
+      "meiCount": 13,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights",
+        "Human Rights \u2013 Supply Chain",
+        "Land Use and Biodiversity",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Water Use \u2013 Own Operations",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Air Freight and Logistics",
+      "nicSection": "H",
+      "nicIndustryCode": "52",
+      "meiCount": 7,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety"
+      ]
+    },
+    {
+      "name": "Airlines",
+      "nicSection": "H",
+      "nicIndustryCode": "51",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Airports",
+      "nicSection": "H",
+      "nicIndustryCode": "52",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Aluminum",
+      "nicSection": "C",
+      "nicIndustryCode": "24",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Asset Management and Custody Services",
+      "nicSection": "K",
+      "nicIndustryCode": "66",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Auto Parts",
+      "nicSection": "C",
+      "nicIndustryCode": "29",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Automobiles",
+      "nicSection": "C",
+      "nicIndustryCode": "29",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Supply Chain",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Automotive Retail",
+      "nicSection": "G",
+      "nicIndustryCode": "45",
+      "meiCount": 5,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Beer, Wine and Spirits",
+      "nicSection": "C",
+      "nicIndustryCode": "11",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Biotechnology",
+      "nicSection": "M",
+      "nicIndustryCode": "72",
+      "meiCount": 8,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Access to Basic Services",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Broadcasting",
+      "nicSection": "J",
+      "nicIndustryCode": "60",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Building Products",
+      "nicSection": "C",
+      "nicIndustryCode": "23",
+      "meiCount": 11,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Business Support Services",
+      "nicSection": "N",
+      "nicIndustryCode": "82",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Cable and Satellite",
+      "nicSection": "J",
+      "nicIndustryCode": "61",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Casinos and Gaming",
+      "nicSection": "R",
+      "nicIndustryCode": "92",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Coal",
+      "nicSection": "B",
+      "nicIndustryCode": "05",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Commercial Printing",
+      "nicSection": "C",
+      "nicIndustryCode": "18",
+      "meiCount": 5,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Data Privacy and Cybersecurity",
+        "E&S Impact of Products and Services",
+        "Occupational Health and Safety"
+      ]
+    },
+    {
+      "name": "Commodity Chemicals",
+      "nicSection": "C",
+      "nicIndustryCode": "20",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Communications Equipment",
+      "nicSection": "C",
+      "nicIndustryCode": "26",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Conglomerates",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 12,
+      "confidence": "low",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Construction Materials",
+      "nicSection": "C",
+      "nicIndustryCode": "23",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Consumer Electronics",
+      "nicSection": "C",
+      "nicIndustryCode": "26",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Consumer Finance",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 7,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Consumer Services",
+      "nicSection": "S",
+      "nicIndustryCode": "96",
+      "meiCount": 6,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Data Processing",
+      "nicSection": "J",
+      "nicIndustryCode": "63",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Department Stores",
+      "nicSection": "G",
+      "nicIndustryCode": "47",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Development Banks",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 5,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Human Capital",
+        "ESG Integration \u2013 Financials"
+      ]
+    },
+    {
+      "name": "Distribution",
+      "nicSection": "G",
+      "nicIndustryCode": "46",
+      "meiCount": 5,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Diversified Banks",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Diversified Chemicals",
+      "nicSection": "C",
+      "nicIndustryCode": "20",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Diversified Financial Institutions",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 8,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Diversified Insurance Services",
+      "nicSection": "K",
+      "nicIndustryCode": "65",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Diversified Metals Mining",
+      "nicSection": "B",
+      "nicIndustryCode": "07",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "ESG Integration \u2013 Financials",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Diversified Real Estate",
+      "nicSection": "L",
+      "nicIndustryCode": "68",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "ESG Integration \u2013 Financials",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Drug Retail",
+      "nicSection": "G",
+      "nicIndustryCode": "47",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Electric Utilities",
+      "nicSection": "D",
+      "nicIndustryCode": "35",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Electrical Equipment",
+      "nicSection": "C",
+      "nicIndustryCode": "27",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Electronic Components",
+      "nicSection": "C",
+      "nicIndustryCode": "26",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Electronics Equipment",
+      "nicSection": "C",
+      "nicIndustryCode": "26",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Electronics Manufacturing",
+      "nicSection": "C",
+      "nicIndustryCode": "26",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Electronics Retail",
+      "nicSection": "G",
+      "nicIndustryCode": "47",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital"
+      ]
+    },
+    {
+      "name": "Enterprise and Infrastructure Software",
+      "nicSection": "J",
+      "nicIndustryCode": "62",
+      "meiCount": 8,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Entertainment Software",
+      "nicSection": "J",
+      "nicIndustryCode": "58",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Facilities Maintenance",
+      "nicSection": "N",
+      "nicIndustryCode": "81",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety"
+      ]
+    },
+    {
+      "name": "Financial Exchanges and Data Services",
+      "nicSection": "K",
+      "nicIndustryCode": "66",
+      "meiCount": 7,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Food Distribution",
+      "nicSection": "G",
+      "nicIndustryCode": "46",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Product Governance",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Food Retail",
+      "nicSection": "G",
+      "nicIndustryCode": "47",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Product Governance",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Footwear",
+      "nicSection": "C",
+      "nicIndustryCode": "15",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Forestry",
+      "nicSection": "A",
+      "nicIndustryCode": "02",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Gas Utilities",
+      "nicSection": "D",
+      "nicIndustryCode": "35",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Gold",
+      "nicSection": "B",
+      "nicIndustryCode": "07",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "ESG Integration \u2013 Financials",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Health Care IT Services",
+      "nicSection": "J",
+      "nicIndustryCode": "62",
+      "meiCount": 6,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Heavy Machinery and Trucks",
+      "nicSection": "C",
+      "nicIndustryCode": "28",
+      "meiCount": 12,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Highways and Railroads",
+      "nicSection": "H",
+      "nicIndustryCode": "49",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Home Appliances",
+      "nicSection": "C",
+      "nicIndustryCode": "27",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Home Improvement",
+      "nicSection": "G",
+      "nicIndustryCode": "47",
+      "meiCount": 7,
+      "confidence": "low",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Home Improvement Retail",
+      "nicSection": "G",
+      "nicIndustryCode": "47",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Homebuilding",
+      "nicSection": "F",
+      "nicIndustryCode": "41",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Household Products",
+      "nicSection": "C",
+      "nicIndustryCode": "20",
+      "meiCount": 11,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "HR Services",
+      "nicSection": "N",
+      "nicIndustryCode": "78",
+      "meiCount": 4,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Data Privacy and Cybersecurity",
+        "Human Capital"
+      ]
+    },
+    {
+      "name": "Independent Power Production and Traders",
+      "nicSection": "D",
+      "nicIndustryCode": "35",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Industrial Gases",
+      "nicSection": "C",
+      "nicIndustryCode": "20",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "E&S Impact of Products and Services",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Industrial Machinery",
+      "nicSection": "C",
+      "nicIndustryCode": "28",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Insurance Brokers",
+      "nicSection": "K",
+      "nicIndustryCode": "66",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Integrated Oil & Gas",
+      "nicSection": "B",
+      "nicIndustryCode": "06",
+      "meiCount": 12,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Internet Software and Services",
+      "nicSection": "J",
+      "nicIndustryCode": "63",
+      "meiCount": 8,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Investment Banking and Brokerage",
+      "nicSection": "K",
+      "nicIndustryCode": "66",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "IT Consulting",
+      "nicSection": "J",
+      "nicIndustryCode": "62",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Laboratory Equipment and Services",
+      "nicSection": "C",
+      "nicIndustryCode": "26",
+      "meiCount": 7,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Life and Health Insurance",
+      "nicSection": "K",
+      "nicIndustryCode": "65",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Luxury Apparel",
+      "nicSection": "C",
+      "nicIndustryCode": "14",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Managed Health Care",
+      "nicSection": "K",
+      "nicIndustryCode": "65",
+      "meiCount": 7,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Access to Basic Services",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Marine Ports",
+      "nicSection": "H",
+      "nicIndustryCode": "52",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety"
+      ]
+    },
+    {
+      "name": "Medical Devices",
+      "nicSection": "C",
+      "nicIndustryCode": "32",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Access to Basic Services",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Medical Distribution",
+      "nicSection": "G",
+      "nicIndustryCode": "46",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Medical Facilities",
+      "nicSection": "Q",
+      "nicIndustryCode": "86",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Access to Basic Services",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Medical Services",
+      "nicSection": "Q",
+      "nicIndustryCode": "86",
+      "meiCount": 7,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Access to Basic Services",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Medical Supplies",
+      "nicSection": "C",
+      "nicIndustryCode": "32",
+      "meiCount": 7,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Access to Basic Services",
+        "Business Ethics",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Metal and Glass Packaging",
+      "nicSection": "C",
+      "nicIndustryCode": "25",
+      "meiCount": 8,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Mortgage REITs",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 5,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Human Capital",
+        "ESG Integration \u2013 Financials"
+      ]
+    },
+    {
+      "name": "Motorcycles",
+      "nicSection": "C",
+      "nicIndustryCode": "30",
+      "meiCount": 7,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Movies and Entertainment",
+      "nicSection": "J",
+      "nicIndustryCode": "59",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Multi-Sector Holdings",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 5,
+      "confidence": "low",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Human Capital",
+        "ESG Integration \u2013 Financials"
+      ]
+    },
+    {
+      "name": "Multi-Utilities",
+      "nicSection": "D",
+      "nicIndustryCode": "35",
+      "meiCount": 12,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Non-Residential Construction",
+      "nicSection": "F",
+      "nicIndustryCode": "41",
+      "meiCount": 13,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Office Services",
+      "nicSection": "N",
+      "nicIndustryCode": "82",
+      "meiCount": 5,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital"
+      ]
+    },
+    {
+      "name": "Oil & Gas Drilling",
+      "nicSection": "B",
+      "nicIndustryCode": "09",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Oil & Gas Equipment",
+      "nicSection": "C",
+      "nicIndustryCode": "28",
+      "meiCount": 9,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Oil & Gas Exploration and Production",
+      "nicSection": "B",
+      "nicIndustryCode": "06",
+      "meiCount": 13,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "ESG Integration \u2013 Financials",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Oil & Gas Refining and Marketing",
+      "nicSection": "C",
+      "nicIndustryCode": "19",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Oil & Gas Storage and Transportation",
+      "nicSection": "H",
+      "nicIndustryCode": "49",
+      "meiCount": 12,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Carbon \u2013 Products and Services",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Online and Direct Marketing Retail",
+      "nicSection": "G",
+      "nicIndustryCode": "47",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Other Financial Services",
+      "nicSection": "K",
+      "nicIndustryCode": "66",
+      "meiCount": 8,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Packaged Foods",
+      "nicSection": "C",
+      "nicIndustryCode": "10",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Paper and Pulp",
+      "nicSection": "C",
+      "nicIndustryCode": "17",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Paper Packaging",
+      "nicSection": "C",
+      "nicIndustryCode": "17",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Occupational Health and Safety",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Personal Products",
+      "nicSection": "C",
+      "nicIndustryCode": "20",
+      "meiCount": 11,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Pharmaceuticals",
+      "nicSection": "C",
+      "nicIndustryCode": "21",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Access to Basic Services",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Precious Metals Mining",
+      "nicSection": "B",
+      "nicIndustryCode": "07",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "ESG Integration \u2013 Financials",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Property and Casualty Insurance",
+      "nicSection": "K",
+      "nicIndustryCode": "65",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Publishing",
+      "nicSection": "J",
+      "nicIndustryCode": "58",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Rail Transport",
+      "nicSection": "H",
+      "nicIndustryCode": "49",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Real Estate Development",
+      "nicSection": "L",
+      "nicIndustryCode": "68",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "ESG Integration \u2013 Financials",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Real Estate Management",
+      "nicSection": "L",
+      "nicIndustryCode": "68",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Real Estate Services",
+      "nicSection": "L",
+      "nicIndustryCode": "68",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Regional Banks",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Reinsurance",
+      "nicSection": "K",
+      "nicIndustryCode": "65",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "REITs",
+      "nicSection": "L",
+      "nicIndustryCode": "68",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Renewable Power Production",
+      "nicSection": "D",
+      "nicIndustryCode": "35",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Research and Consulting",
+      "nicSection": "M",
+      "nicIndustryCode": "70",
+      "meiCount": 6,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Restaurants",
+      "nicSection": "I",
+      "nicIndustryCode": "56",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Product Governance",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Retail Apparel",
+      "nicSection": "G",
+      "nicIndustryCode": "47",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Security Services and Correctional Facilities",
+      "nicSection": "N",
+      "nicIndustryCode": "80",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Human Rights",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Semiconductor Design and Manufacturing",
+      "nicSection": "C",
+      "nicIndustryCode": "26",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Water Use \u2013 Supply Chain",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Semiconductor Equipment",
+      "nicSection": "C",
+      "nicIndustryCode": "28",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Shipping",
+      "nicSection": "H",
+      "nicIndustryCode": "50",
+      "meiCount": 7,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety"
+      ]
+    },
+    {
+      "name": "Soft Drinks",
+      "nicSection": "C",
+      "nicIndustryCode": "11",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Specialized Finance",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 7,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Specialty Chemicals",
+      "nicSection": "C",
+      "nicIndustryCode": "20",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Capital",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Specialty Retail",
+      "nicSection": "G",
+      "nicIndustryCode": "47",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital"
+      ]
+    },
+    {
+      "name": "Steel",
+      "nicSection": "C",
+      "nicIndustryCode": "24",
+      "meiCount": 13,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Technology Distribution",
+      "nicSection": "G",
+      "nicIndustryCode": "46",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Carbon \u2013 Own Operations",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Technology Hardware",
+      "nicSection": "C",
+      "nicIndustryCode": "26",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Telecommunication Services",
+      "nicSection": "J",
+      "nicIndustryCode": "61",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Carbon \u2013 Own Operations",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Textiles",
+      "nicSection": "C",
+      "nicIndustryCode": "13",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Emissions, Effluents and Waste",
+        "Human Rights",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Water Use \u2013 Own Operations",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Thrifts and Mortgages",
+      "nicSection": "K",
+      "nicIndustryCode": "64",
+      "meiCount": 8,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Human Capital",
+        "ESG Integration \u2013 Financials",
+        "Product Governance",
+        "Resilience"
+      ]
+    },
+    {
+      "name": "Tires",
+      "nicSection": "C",
+      "nicIndustryCode": "22",
+      "meiCount": 9,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Raw Material Use"
+      ]
+    },
+    {
+      "name": "Tobacco",
+      "nicSection": "C",
+      "nicIndustryCode": "12",
+      "meiCount": 10,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity \u2013 Supply Chain",
+        "Product Governance",
+        "Water Use \u2013 Own Operations",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Toys and Sporting Goods",
+      "nicSection": "C",
+      "nicIndustryCode": "32",
+      "meiCount": 7,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "E&S Impact of Products and Services",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Product Governance"
+      ]
+    },
+    {
+      "name": "Trading and Distribution",
+      "nicSection": "G",
+      "nicIndustryCode": "46",
+      "meiCount": 11,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Rights \u2013 Supply Chain",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Product Governance",
+        "Water Use \u2013 Supply Chain"
+      ]
+    },
+    {
+      "name": "Travel, Lodging and Amusement",
+      "nicSection": "I",
+      "nicIndustryCode": "55",
+      "meiCount": 10,
+      "confidence": "medium",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    },
+    {
+      "name": "Trucking",
+      "nicSection": "H",
+      "nicIndustryCode": "49",
+      "meiCount": 6,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Occupational Health and Safety"
+      ]
+    },
+    {
+      "name": "Water Utilities",
+      "nicSection": "E",
+      "nicIndustryCode": "36",
+      "meiCount": 12,
+      "confidence": "high",
+      "materialIssues": [
+        "Corporate Governance",
+        "Stakeholder Governance",
+        "Business Ethics",
+        "Community Relations",
+        "Data Privacy and Cybersecurity",
+        "Emissions, Effluents and Waste",
+        "Carbon \u2013 Own Operations",
+        "Human Capital",
+        "Land Use and Biodiversity",
+        "Occupational Health and Safety",
+        "Product Governance",
+        "Water Use \u2013 Own Operations"
+      ]
+    }
+  ]
+}
