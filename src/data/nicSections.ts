@@ -1,32 +1,20 @@
-import type { NicSection } from "@/lib/types";
+import type { NicSection, NicTier } from "@/lib/types";
 import brsr from "./brsr.json";
+import nicSummary from "./nicSectionSummary.json";
 
-// Official NIC 2008 section names (public taxonomy). Company counts are derived
-// from the real BRSR company master list. Industry/Group-level codes are not yet
-// available — see DATA_PROVENANCE.md.
-const NIC_SECTION_NAMES: Record<string, string> = {
-  A: "Agriculture, forestry and fishing",
-  B: "Mining and quarrying",
-  C: "Manufacturing",
-  D: "Electricity, gas, steam and air conditioning supply",
-  E: "Water supply; sewerage, waste management and remediation activities",
-  F: "Construction",
-  G: "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-  H: "Transportation and storage",
-  I: "Accommodation and food service activities",
-  J: "Information and communication",
-  K: "Financial and insurance activities",
-  L: "Real estate activities",
-  M: "Professional, scientific and technical activities",
-  N: "Administrative and support service activities",
-  O: "Public administration and defence; compulsory social security",
-  P: "Education",
-  Q: "Human health and social work activities",
-  R: "Arts, entertainment and recreation",
-  S: "Other service activities",
-  T: "Activities of households as employers",
-  U: "Activities of extraterritorial organisations and bodies",
-};
+// Real data, parsed from the user-provided NIC Classification export
+// (scripts/nic_classification_source.csv → src/data/nicSectionSummary.json):
+// section code, name, Primary/Secondary/Tertiary tier, and Industry/Group counts.
+// This is still a SUMMARY — the actual Industry/Group-level codes and names
+// within each section are not present in the source and remain unavailable.
+// See DATA_PROVENANCE.md.
+const NIC_SUMMARY = nicSummary as {
+  code: string;
+  name: string;
+  tier: NicTier;
+  industriesCount: number;
+  groupsCount: number;
+}[];
 
 // MOCK crosswalk — GICS/SICS mappings are not yet sourced. Placeholder values are
 // approximate and only cover sections with real BRSR company counts.
@@ -59,15 +47,16 @@ function computeCompanyCounts(): Record<string, number> {
 
 const companyCounts = computeCompanyCounts();
 
-export const NIC_SECTIONS: NicSection[] = Object.entries(NIC_SECTION_NAMES).map(
-  ([code, name]) => ({
-    code,
-    name,
-    companyCount: companyCounts[code] ?? 0,
-    gicsSector: MOCK_CROSSWALK[code]?.gics,
-    sicsSector: MOCK_CROSSWALK[code]?.sics,
-  })
-);
+export const NIC_SECTIONS: NicSection[] = NIC_SUMMARY.map((s) => ({
+  code: s.code,
+  name: s.name,
+  tier: s.tier,
+  industriesCount: s.industriesCount,
+  groupsCount: s.groupsCount,
+  companyCount: companyCounts[s.code] ?? 0,
+  gicsSector: MOCK_CROSSWALK[s.code]?.gics,
+  sicsSector: MOCK_CROSSWALK[s.code]?.sics,
+}));
 
 export function getNicSection(code: string | null | undefined): NicSection | null {
   if (!code) return null;

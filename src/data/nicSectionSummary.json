@@ -1,0 +1,149 @@
+[
+  {
+    "code": "A",
+    "name": "Agriculture, forestry and fishing",
+    "tier": "Primary",
+    "industriesCount": 3,
+    "groupsCount": 13
+  },
+  {
+    "code": "B",
+    "name": "Mining and quarrying",
+    "tier": "Primary",
+    "industriesCount": 5,
+    "groupsCount": 10
+  },
+  {
+    "code": "C",
+    "name": "Manufacturing",
+    "tier": "Secondary",
+    "industriesCount": 24,
+    "groupsCount": 71
+  },
+  {
+    "code": "D",
+    "name": "Electricity, gas, steam and air conditioning supply",
+    "tier": "Secondary",
+    "industriesCount": 1,
+    "groupsCount": 3
+  },
+  {
+    "code": "E",
+    "name": "Water supply; sewerage, waste management and remediation activities",
+    "tier": "Secondary",
+    "industriesCount": 4,
+    "groupsCount": 6
+  },
+  {
+    "code": "F",
+    "name": "Construction",
+    "tier": "Secondary",
+    "industriesCount": 3,
+    "groupsCount": 8
+  },
+  {
+    "code": "G",
+    "name": "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+    "tier": "Tertiary",
+    "industriesCount": 3,
+    "groupsCount": 20
+  },
+  {
+    "code": "H",
+    "name": "Transportation and storage",
+    "tier": "Tertiary",
+    "industriesCount": 5,
+    "groupsCount": 11
+  },
+  {
+    "code": "I",
+    "name": "Accommodation and Food service activities",
+    "tier": "Tertiary",
+    "industriesCount": 2,
+    "groupsCount": 6
+  },
+  {
+    "code": "J",
+    "name": "Information and communication",
+    "tier": "Tertiary",
+    "industriesCount": 6,
+    "groupsCount": 13
+  },
+  {
+    "code": "K",
+    "name": "Financial and insurance activities",
+    "tier": "Tertiary",
+    "industriesCount": 3,
+    "groupsCount": 10
+  },
+  {
+    "code": "L",
+    "name": "Real estate activities",
+    "tier": "Tertiary",
+    "industriesCount": 1,
+    "groupsCount": 2
+  },
+  {
+    "code": "M",
+    "name": "Professional, scientific and technical activities",
+    "tier": "Tertiary",
+    "industriesCount": 7,
+    "groupsCount": 14
+  },
+  {
+    "code": "N",
+    "name": "Administrative and support service activities",
+    "tier": "Tertiary",
+    "industriesCount": 6,
+    "groupsCount": 19
+  },
+  {
+    "code": "O",
+    "name": "Public administration and defence; compulsory social security",
+    "tier": "Tertiary",
+    "industriesCount": 1,
+    "groupsCount": 3
+  },
+  {
+    "code": "P",
+    "name": "Education",
+    "tier": "Tertiary",
+    "industriesCount": 1,
+    "groupsCount": 5
+  },
+  {
+    "code": "Q",
+    "name": "Human health and social work activities",
+    "tier": "Tertiary",
+    "industriesCount": 3,
+    "groupsCount": 9
+  },
+  {
+    "code": "R",
+    "name": "Arts, entertainment and recreation",
+    "tier": "Tertiary",
+    "industriesCount": 4,
+    "groupsCount": 5
+  },
+  {
+    "code": "S",
+    "name": "Other service activities",
+    "tier": "Tertiary",
+    "industriesCount": 3,
+    "groupsCount": 6
+  },
+  {
+    "code": "T",
+    "name": "Activities of households as employers; undifferentiated goods- and services producing activities of households for own use",
+    "tier": "Tertiary",
+    "industriesCount": 2,
+    "groupsCount": 3
+  },
+  {
+    "code": "U",
+    "name": "Activities of extraterritorial organizations and bodies",
+    "tier": "Tertiary",
+    "industriesCount": 1,
+    "groupsCount": 1
+  }
+]

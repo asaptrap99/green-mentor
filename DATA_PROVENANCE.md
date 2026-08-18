@@ -18,10 +18,14 @@ From the **BRSR Reports** tab — the only tab with structured, parseable rows:
 - Largest emitters (Scope 1+2, 12 companies), renewable energy share (12 companies),
   worker LTIFR band distribution (5 bands), largest water withdrawers (10 companies).
 
-From **NIC Classification** tab: only summary *counts* per Section/Sector/Industry/
-Group (e.g. "Manufacturing: 24 industries, 71 groups") — no actual code list. NIC
-section **names** used in `src/data/nicSections.ts` are the public NIC 2008 section
-list (A–U), not sourced from the workbook.
+From **NIC Classification** (`src/data/nicSectionSummary.json`, parsed from the
+user-provided `Green_mentor_NIC_Classification.csv` export): all 21 NIC sections
+(A–U) with their real name, Primary/Secondary/Tertiary tier, and real Industry/Group
+counts (e.g. "C · Manufacturing — Secondary, 24 industries, 71 groups"). This is
+still a **summary**, not the code list — the actual Industry- and Group-level codes
+and names within each section (e.g. "C.10.5 — Dairy products") are not present in
+the source and remain unavailable. The taxonomy sunburst/icicle explorer (Screen
+1/5) is still blocked on that.
 
 ## Mock / placeholder data
 

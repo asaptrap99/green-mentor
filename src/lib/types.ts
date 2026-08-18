@@ -8,9 +8,14 @@ export type Tier = "T1" | "T2" | "T3";
  *  Section names are the real, public NIC 2008 section list. Industry/Group-level codes
  *  are NOT yet available (the source workbook only has summary counts) — see
  *  DATA_PROVENANCE.md. GICS/SICS crosswalk fields are placeholders pending real data. */
+export type NicTier = "Primary" | "Secondary" | "Tertiary";
+
 export interface NicSection {
   code: string; // e.g. "C"
   name: string; // e.g. "Manufacturing"
+  tier: NicTier; // real, from NIC Classification source
+  industriesCount: number; // real count of Industry-level codes under this section
+  groupsCount: number; // real count of Group-level codes under this section
   companyCount: number; // derived from real BRSR company master list
   gicsSector?: string; // MOCK — crosswalk not yet sourced
   sicsSector?: string; // MOCK — crosswalk not yet sourced

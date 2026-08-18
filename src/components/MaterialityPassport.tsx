@@ -34,6 +34,11 @@ export function MaterialityPassport({ profile }: { profile: CompanyMaterialityPr
           {nicSection ? (
             <>
               <Pill label={`NIC ${nicSection.code}`} sub={nicSection.name} />
+              <Pill
+                label={nicSection.tier}
+                sub={`${nicSection.industriesCount} industries, ${nicSection.groupsCount} groups`}
+                muted
+              />
               {nicSection.gicsSector && <Pill label="GICS" sub={nicSection.gicsSector} muted />}
               {nicSection.sicsSector && <Pill label="SICS" sub={nicSection.sicsSector} muted />}
             </>
