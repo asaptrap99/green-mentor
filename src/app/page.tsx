@@ -10,6 +10,7 @@ import { SectorMaterialitySplit } from "@/components/SectorMaterialitySplit";
 import { TaxonomyExplorer } from "@/components/TaxonomyExplorer";
 import { SasbIndustryDetail } from "@/components/SasbIndustryDetail";
 import { SustainalyticsIndustryDetail } from "@/components/SustainalyticsIndustryDetail";
+import { MetricsGlossary } from "@/components/MetricsGlossary";
 import { getCompanyBySymbol, getCompanyMaterialityProfile } from "@/lib/dataLayer";
 
 const DEFAULT_SYMBOL = "ADANIPOWER";
@@ -38,19 +39,49 @@ export default function Home() {
             No company selected. Search above to get started.
           </div>
         ) : (
-          <div className="flex flex-col gap-6">
-            <MaterialityPassport profile={profile} />
-            <GapQuadrantChart points={profile.gapPoints} />
-            <div className="grid grid-cols-1 gap-6 lg:grid-cols-3">
-              <div className="flex flex-col gap-6 lg:col-span-2">
-                <FrameworkComparison profile={profile} />
-                <SasbIndustryDetail nicSection={profile.company.nicSection} />
-                <SustainalyticsIndustryDetail nicSection={profile.company.nicSection} />
+          <div className="flex flex-col gap-8">
+            <section className="flex flex-col gap-6">
+              <div>
+                <h2 className="text-lg font-semibold text-[--text-primary]">
+                  {profile.company.name}
+                </h2>
+                <p className="text-sm text-[--text-secondary]">
+                  Everything in this section is scoped to {profile.company.name}
+                  {profile.nicSection ? ` and its NIC sector (${profile.nicSection.code} · ${profile.nicSection.name})` : ""}.
+                  Framework materiality (Sustainalytics / SASB / MSCI) is published at
+                  industry level, not per company — the company&apos;s BRSR sector
+                  is used as the closest real proxy for its own material issues.
+                </p>
               </div>
-              <SectorMaterialitySplit highlightSection={profile.company.nicSection} />
-            </div>
-            <PeerBenchmarkStrip company={profile.company} />
-            <TaxonomyExplorer />
+              <MaterialityPassport profile={profile} />
+              <GapQuadrantChart points={profile.gapPoints} />
+              <FrameworkComparison profile={profile} />
+              <PeerBenchmarkStrip company={profile.company} />
+            </section>
+
+            <section className="flex flex-col gap-6 border-t border-[--border] pt-6">
+              <div>
+                <h2 className="text-lg font-semibold text-[--text-primary]">
+                  Sector &amp; framework reference
+                </h2>
+                <p className="text-sm text-[--text-secondary]">
+                  Broader context, not filtered to {profile.company.name} — these
+                  cover the company&apos;s NIC sector or the full taxonomy so you can
+                  see where its sector-level material issues come from and how it
+                  compares to every other sector.
+                </p>
+              </div>
+              <div className="grid grid-cols-1 gap-6 lg:grid-cols-3">
+                <div className="flex flex-col gap-6 lg:col-span-2">
+                  <SasbIndustryDetail nicSection={profile.company.nicSection} />
+                  <SustainalyticsIndustryDetail nicSection={profile.company.nicSection} />
+                </div>
+                <SectorMaterialitySplit highlightSection={profile.company.nicSection} />
+              </div>
+              <TaxonomyExplorer />
+            </section>
+
+            <MetricsGlossary />
           </div>
         )}
       </div>
