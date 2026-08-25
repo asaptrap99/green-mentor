@@ -1,4 +1,7 @@
-import { getSustainalyticsIndustriesForSection } from "@/data/sustainalyticsIndustries";
+import {
+  getSustainalyticsIndustriesForSection,
+  SUSTAINALYTICS_MEI_DEFINITIONS,
+} from "@/data/sustainalyticsIndustries";
 
 const CONFIDENCE_LABEL: Record<string, string> = {
   high: "exact NIC industry match",
@@ -40,6 +43,7 @@ export function SustainalyticsIndustryDetail({ nicSection }: { nicSection: strin
                 <span
                   key={mei}
                   className="rounded-full bg-[--surface-2] px-2 py-0.5 text-xs text-[--text-secondary]"
+                  title={SUSTAINALYTICS_MEI_DEFINITIONS[mei] ?? undefined}
                 >
                   {mei}
                 </span>

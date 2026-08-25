@@ -53,6 +53,12 @@ export function MaterialityPassport({ profile }: { profile: CompanyMaterialityPr
         <h3 className="mb-2 text-sm font-medium text-[--text-secondary]">
           Top material issues &middot; framework consensus
         </h3>
+        <p className="mb-2 text-xs text-[--text-secondary]">
+          Issues most frameworks (Sustainalytics / SASB / MSCI) flag as material for
+          {" "}{company.name}&apos;s NIC sector{nicSection ? ` (${nicSection.name})` : ""}.
+          No framework publishes materiality at the individual-company level, so this
+          is the company&apos;s sector standing in for a company-specific score.
+        </p>
         {topMaterialIssues.length === 0 ? (
           <p className="text-sm text-[--text-secondary]">
             Not yet mapped — no framework materiality data for this industry.
