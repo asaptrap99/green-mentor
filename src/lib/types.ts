@@ -134,3 +134,13 @@ export interface CompanyMaterialityProfile {
   gapPoints: IssueGapPoint[];
   topMaterialIssues: IssueGapPoint[]; // top 5-6 by framework consensus
 }
+
+export interface SubindustryProfile {
+  subindustry: SustainalyticsIndustryProfile;
+  sasbMatch: SasbIndustryProfile | null;
+  nicSection: NicSection | null;
+  frameworkRows: FrameworkMaterialityRecord[];
+  gapPoints: IssueGapPoint[];
+  topMaterialIssues: IssueGapPoint[];
+  companies: Company[];
+}
