@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import Link from "next/link";
 import { CompanySearch } from "@/components/CompanySearch";
 import { MaterialityPassport } from "@/components/MaterialityPassport";
 import { GapQuadrantChart } from "@/components/GapQuadrantChart";
@@ -25,9 +26,14 @@ export default function Home() {
     <div className="min-h-screen bg-[--surface-2] px-4 py-8 sm:px-8">
       <div className="mx-auto max-w-6xl">
         <header className="mb-6">
-          <h1 className="text-2xl font-semibold text-[--text-primary]">
-            Company Materiality
-          </h1>
+          <div className="flex flex-wrap items-baseline justify-between gap-2">
+            <h1 className="text-2xl font-semibold text-[--text-primary]">
+              Company Materiality
+            </h1>
+            <Link href="/subindustry" className="text-sm text-[#2a78d6] hover:underline">
+              View by subindustry &rarr;
+            </Link>
+          </div>
           <p className="mb-4 text-sm text-[--text-secondary]">
             Green Mentor &middot; unified ESG materiality intelligence
           </p>
@@ -55,7 +61,7 @@ export default function Home() {
               </div>
               <MaterialityPassport profile={profile} />
               <GapQuadrantChart points={profile.gapPoints} />
-              <FrameworkComparison profile={profile} />
+              <FrameworkComparison frameworkRows={profile.frameworkRows} nicSection={profile.nicSection} />
               <PeerBenchmarkStrip company={profile.company} />
             </section>
 

@@ -1,11 +1,15 @@
-import type { CompanyMaterialityProfile, FrameworkName } from "@/lib/types";
+import type { FrameworkMaterialityRecord, FrameworkName, NicSection } from "@/lib/types";
 import { CANONICAL_ISSUES } from "@/data/canonicalIssues";
 
 const FRAMEWORKS: FrameworkName[] = ["Sustainalytics", "SASB", "MSCI"];
 
-export function FrameworkComparison({ profile }: { profile: CompanyMaterialityProfile }) {
-  const { frameworkRows, nicSection } = profile;
-
+export function FrameworkComparison({
+  frameworkRows,
+  nicSection,
+}: {
+  frameworkRows: FrameworkMaterialityRecord[];
+  nicSection: NicSection | null;
+}) {
   if (!nicSection || frameworkRows.length === 0) {
     return (
       <div className="rounded-xl border border-[--border] bg-[--surface-1] p-5">

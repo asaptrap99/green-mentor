@@ -6,11 +6,14 @@ import type {
   GapQuadrant,
   IssueGapPoint,
   Pillar,
+  SubindustryProfile,
 } from "./types";
 import brsr from "@/data/brsr.json";
 import { CANONICAL_ISSUES } from "@/data/canonicalIssues";
 import { getFrameworkRowsForSection } from "@/data/frameworkMateriality";
 import { getNicSection, NIC_SECTIONS } from "@/data/nicSections";
+import { SUSTAINALYTICS_INDUSTRIES } from "@/data/sustainalyticsIndustries";
+import { getSasbIndustry } from "@/data/sasbIndustries";
 
 const companies = brsr.companies as Company[];
 
@@ -130,6 +133,49 @@ export function getCompanyMaterialityProfile(symbol: string): CompanyMateriality
     brsrTopics: BRSR_TOPICS,
     gapPoints,
     topMaterialIssues,
+  };
+}
+
+export function searchSubindustries(query: string, limit = 8) {
+  const q = query.trim().toLowerCase();
+  if (!q) return [];
+  return SUSTAINALYTICS_INDUSTRIES.filter((s) => s.name.toLowerCase().includes(q)).slice(
+    0,
+    limit
+  );
+}
+
+export function getCompaniesForNicSection(nicSection: string | null): Company[] {
+  if (!nicSection) return [];
+  return companies.filter((c) => c.nicSection === nicSection);
+}
+
+export function getSubindustryProfile(name: string): SubindustryProfile | null {
+  const subindustry = SUSTAINALYTICS_INDUSTRIES.find((s) => s.name === name);
+  if (!subindustry) return null;
+
+  const nicSection = getNicSection(subindustry.nicSection);
+  const sasbMatch = getSasbIndustry(subindustry.nicSection, subindustry.nicIndustryCode);
+  const frameworkRows = getFrameworkRowsForSection(subindustry.nicSection);
+  const gapPoints = computeGapPoints(subindustry.nicSection);
+
+  const topMaterialIssues = [...gapPoints]
+    .filter((p) => p.frameworksFlagging.length > 0)
+    .sort(
+      (a, b) =>
+        b.frameworksFlagging.length - a.frameworksFlagging.length ||
+        b.materialityWeight - a.materialityWeight
+    )
+    .slice(0, 6);
+
+  return {
+    subindustry,
+    sasbMatch,
+    nicSection,
+    frameworkRows,
+    gapPoints,
+    topMaterialIssues,
+    companies: getCompaniesForNicSection(subindustry.nicSection),
   };
 }
 
